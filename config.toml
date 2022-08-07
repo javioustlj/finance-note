@@ -2,7 +2,7 @@ baseURL = "https://javioustlj.github.io/finance-note/"
 title = "夏田墨的投资笔记"
 
 # Language settings
-contentDir = "content/zh"
+contentDir = "content/cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
@@ -63,7 +63,7 @@ id = "UA-00000000-0"
 title = "夏田墨的投资笔记"
 description = "夏田墨的投资笔记"
 languageName = "中文"
-contentDir = "content/zh"
+contentDir = "content/cn"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
