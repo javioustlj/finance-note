@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这里是我收集的关于投资的知识。
 {{% /pageinfo %}}
 
 
