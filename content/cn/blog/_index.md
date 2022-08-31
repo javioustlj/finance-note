@@ -1,13 +1,13 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Blog"
+title: "夏田墨 投资 博客"
+linkTitle: "博客"
 menu:
   main:
     weight: 30
 ---
 
 
-This is the **blog** section. It has two categories: News and Releases.
+这是夏田墨的 **博客**. 主要记录我的每日复盘和投资心得。
 
-Files in these directories will be listed in reverse chronological order.
+这里的所有的博客内容都是按照倒序来显示的。
 
