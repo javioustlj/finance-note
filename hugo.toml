@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "Goldydocs"
+baseURL = "https://javioustlj.github.io/finance-note/"
+title = "投资集思录"
 
 # Language settings
 contentDir = "content/en"
@@ -85,6 +85,15 @@ description = "یک نمونه برای پوسته داکسی"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
+[languages.zh-cn]
+languageName = "中文"
+contentDir = "content/zh-cn"
+[languages.zh-cn.params]
+title = "投资集思录"
+description = "夏田墨投资集思录, 债券, 基金, 股票, 期货, 外汇, 贵金属"
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser.attribute]
@@ -104,7 +113,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "夏田墨"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
