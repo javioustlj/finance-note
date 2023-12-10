@@ -9,7 +9,7 @@ title: 投资集思录
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+<p class="lead mt-5">投资集思录 - 做一个有思考的投资者 &mdash; in the cloud!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
