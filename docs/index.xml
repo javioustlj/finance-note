@@ -1,2384 +1,441 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>投资集思录 – Documentation</title><link>https://javioustlj.github.io/finance-note/docs/</link><description>Recent content in Documentation on 投资集思录</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://javioustlj.github.io/finance-note/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Bed and Chair Metrics</title><link>https://javioustlj.github.io/finance-note/docs/tasks/beds/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tasks/beds/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>投资集思录 – 文档</title><link>https://javioustlj.github.io/finance-note/docs/</link><description>Recent content in 文档 on 投资集思录</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://javioustlj.github.io/finance-note/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 技术指标</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/jishuzhibiao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/jishuzhibiao/</guid><description>
+&lt;p>技术指标是技术分析重要的组成部分，全世界有千种以上的各种各样的技术指标。&lt;/p>
+&lt;h2 id="技术指标的概述">技术指标的概述&lt;/h2>
+&lt;h2 id="技术指标的本质">技术指标的本质&lt;/h2>
+&lt;p>按照一定的数学方法对证券相关数据进行处理，数据经过处理可以得到更有用直观的数值，这就是技术指标。&lt;/p>
+&lt;p>处理数据的数学方法是多种多样的，这也就产生了多种多样的技术指标。梅贻泓技术指标都是以一个特定的方式对市场进行观察，反映市场某一方面的内涵，仅仅通过原始数据是很难看出这些内涵。技术指标将某些对市场的定性认识进行定量分析，可以使具体操作的精确度提高。&lt;/p>
+&lt;h2 id="如何使用技术指标">如何使用技术指标?&lt;/h2>
+&lt;p>可以从以下六个方面考虑应用指标：&lt;/p>
 &lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>背离。背离是指指标的走向与价格走向不一致，这有可能是指标提前于价格的反应。&lt;/li>
+&lt;li>交叉。交叉是指标曲线图中的两条线发生了交叉现象，金叉和死叉就属于这类情况。&lt;/li>
+&lt;li>极端值。极值是指标的数值达到了一个极高或基地的位置，即将发生转折，是判断超卖，超买的重要参考。&lt;/li>
+&lt;li>形态。这是指指标曲线呈现出某种有规律的形态，可以根据规律做出判断。&lt;/li>
+&lt;li>转折。这是指指标的曲线发生了掉头，通常来说价格也可能发生了掉头，是非常值得注意的时刻。&lt;/li>
+&lt;li>趋势。这是指指标曲线波动的方向，是向上还是向下。&lt;/li>
 &lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
+&lt;h3 id="技术指标应注意的问题">技术指标应注意的问题&lt;/h3>
+&lt;p>技术指标只是观察市场描述市场的一种工具，每种工具都有自己的适用范围和使用环境。使用技术指标最忌讳机械地照搬理论，忽略这些结论成立的条件。&lt;/p>
 &lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
+&lt;li>不能盲目地绝对相信技术指标。技术指标有一定的局限性。因为技术指标是对过去的证券数据进行分析，而将来是不可能被100%预测的。&lt;/li>
+&lt;li>不能认为技术指标甚至技术分析毫无作用。技术分析有点统计学的味道，尽管我不能准确预测明天的市场，但是能大概率反应明天市场的情况。&lt;/li>
+&lt;/ol></description></item><item><title>Docs: MA</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/ma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/ma/</guid><description>
+&lt;h2 id="移动平均线--ma-moving-average">移动平均线 MA (Moving Average)&lt;/h2>
+&lt;h3 id="ma的计算">MA的计算&lt;/h3>
+&lt;p>$$
+MA(n) = \frac{n天的价格相加}{n}
+$$&lt;/p>
+&lt;p>MA就是连续若干天的价格的算数平均。天数通常选为5日（一周），10日（两周），20日（一月），60日（三月），120日（半年），250日（一年）等&lt;/p>
+&lt;h3 id="ma的特性和作用">MA的特性和作用&lt;/h3>
+&lt;ol>
+&lt;li>追踪趋势。MA能够表示价格的趋势，不受小的反向波动影响，并追随这个趋势。原始数据得到的价格图标不是很容易看出这个趋势。&lt;/li>
+&lt;li>滞后性和稳定性。由于MA是由多天的价格的平均，所以一天的变动对MA的影响就没那么大，所以MA的值相对证券价格来说比较稳定不会被暂时的小的波动所迷惑，但同时，它反应趋势变化也会滞后于趋势本身。&lt;/li>
+&lt;li>助涨助跌性和支撑压力性。当价格突破了MA时，无论是向上突破还是向下突破，价格都有继续沿着该方向继续的惯性，这就是MA的助涨助跌性。浙使得MA具有了一定的支撑线和压力线的特性。MA被突破，也可以认为支撑性和压力线被突破。&lt;/li>
 &lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
+&lt;h3 id="ma的应用">MA的应用&lt;/h3>
+&lt;p>使用MA的经典方法时格兰维尔（Granville）法则，&lt;/p>
+&lt;p>买入信号&lt;/p>
+&lt;ol>
+&lt;li>平均线从下降开始走平，价格从下向上穿过平均线；&lt;/li>
+&lt;li>价格连续上升远离平均线，突然下降，但在平均线附近再度上升；&lt;/li>
+&lt;li>价格跌破平均线并连续暴跌。（个人不同意这一点，可以更多考虑乖离率指标）&lt;/li>
+&lt;/ol>
+&lt;p>卖出信号&lt;/p>
+&lt;ol>
+&lt;li>平均线从上升开始走平，价格从上向下穿过平均线；&lt;/li>
+&lt;li>价格连续下降远离平均线，突然上升，但在平均线附近再度下跌；&lt;/li>
+&lt;li>价格上穿平均线并连续暴涨。（这一点很难同意，可以更多考虑乖离率指标）&lt;/li>
+&lt;/ol>
+&lt;p>值得注意的是，在趋势形成后的中途修正阶段或局部反弹和回档，MA的信号出现的很频繁，会发生很多错误的信号。&lt;/p>
+&lt;h2 id="平滑异同移动平均线-macdmoving-average-convergence-and-divergence">平滑异同移动平均线 MACD(Moving Average Convergence and Divergence)&lt;/h2>
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
+&lt;li>MACD (Moving Average Converagence and Divergence) 平滑异同移动平均线&lt;/li>
+&lt;li>DIF (Difference) 正负差&lt;/li>
+&lt;li>DEA (Difference exponential average) 异同平均数&lt;/li>
+&lt;li>EMA (Exponential Moving Average) 指数移动平均线&lt;/li>
 &lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
+&lt;h2 id="macd-的计算">MACD 的计算&lt;/h2>
+&lt;p>MACD的计算比较复杂，它是由DIF和DEA两部分组成，DIF是核心，DEA是辅助。但是MIF和DEA的计算都依赖于EMA.&lt;/p>
+&lt;p>EMA是 Exponential Moving Average 的缩写，称作指数移动平均线。&lt;/p>
+&lt;p>EMA公式如下：&lt;/p>
+&lt;p>$$
+EMA(P_{close}, N)&lt;em>{today} = a \times P&lt;/em>{close} + (1 - a) \times EMA_{yesterday}
+$$&lt;/p>
+&lt;p>其中 $a = \frac{2}{N+1}$,&lt;/p>
+&lt;p>设$P_i$ 为每日收盘价，其中 $i = 1, 2, \cdots n$， 默认 $EMA(1) = P_1$&lt;/p>
+&lt;p>$$
+\begin{align}
+EMA(1) &amp;amp;= P_1 \notag \\
+EMA(2) &amp;amp;= aP_2 + （1-a)P_1 \notag \\
+EMA(3) &amp;amp;= aP_3 + a(1-a)P_2 + (1-a)^2P_1 \notag \\
+\cdots \notag \\
+EMA(n) &amp;amp;= aP_n + a(1-a)P_{n-1} + a(1-a)^2P_{n-2} + \cdots + a(1-a)^{n-2}P_2 + (1-a)^{n-1}P_1 \notag
+\end{align}
+$$&lt;/p>
+&lt;p>从上面的公式可以看出，a越大，最新价对EMA的影响就越大；a越小，最新价对EMA的影响就越小。而a是和N成反比的，即N越小，则最新价对EMA的影响就越大；N越大，最新价对EMA的影响就越小。&lt;/p>
+&lt;p>所以我们可以说 $EMA(P_{close}, 12)$ 比 $EMA(P_{close}, 26)$ 对于最新价格的变化更为的灵敏。&lt;/p>
+&lt;p>$$
+DIF = EMA(P_{close}, 12) - EMA(P_{close}, 26)
+$$&lt;/p>
+&lt;p>$$
+DEA = EMA(DIF_{today}, 9)
+$$&lt;/p>
+&lt;p>$$
+MACD = BAR = 2 \times (DIF - DEA)
+$$&lt;/p>
+&lt;h2 id="macd-各指标的意义">MACD 各指标的意义&lt;/h2>
+&lt;h3 id="dif-意义">DIF 意义&lt;/h3>
+&lt;ol>
+&lt;li>$DIF &amp;gt; 0$，说明短期指数平滑线比长期指数平滑线高，是多头市场，股票价格处于上涨阶段。&lt;/li>
+&lt;li>$DIF &amp;lt; 0$，说明短期指数平滑线比长期指数平滑线低，是空头市场，股票价格处于下跌阶段。&lt;/li>
+&lt;li>$DIF$ 的绝对值越大表明上涨或下跌的趋势越强烈。&lt;/li>
+&lt;/ol>
+&lt;h3 id="dea-意义">DEA 意义&lt;/h3>
+&lt;p>DEA 一般不会单独应用，它是DIF的补充，相对来说DEA变化的更缓慢平滑。&lt;/p>
+&lt;ol>
+&lt;li>$DEA &amp;gt; 0$，说明短期指数平滑线比长期指数平滑线高，是多头市场，股票价格处于上涨阶段。&lt;/li>
+&lt;li>$DEA &amp;lt; 0$，说明短期指数平滑线比长期指数平滑线低，是空头市场，股票价格处于下跌阶段。&lt;/li>
+&lt;li>$DEA$ 的绝对值越大表明上涨或下跌的趋势越强烈。&lt;/li>
+&lt;/ol>
+&lt;h3 id="macd的意义">MACD的意义&lt;/h3>
+&lt;ol>
+&lt;li>$MACD &amp;gt; 0$，即DIF上穿DEA，说明DIF趋势变化走强，此时显示为hong&lt;/li>
+&lt;li>$DEA &amp;lt; 0$，说明短期指数平滑线比长期指数平滑线低，是空头市场，股票价格处于下跌阶段。&lt;/li>
+&lt;li>$DEA$ 的绝对值越大表明上涨或下跌的趋势越强烈。&lt;/li>
+&lt;/ol>
+&lt;h2 id="macd的应用">MACD的应用&lt;/h2>
+&lt;ol>
+&lt;li>考虑DIF和DEA的取值和两者之间的相对取值。$DIF &amp;gt; 0$，说明是多头市场，当DIF 和DEA都是正值时，多头市场的信号更明确。DIF向上突破DEA是买入信号，DIF向下跌破DEA应获利了结。反之，当DIF和DEA均为负值时，属于空头市场。&lt;/li>
+&lt;li>考虑DIF和DEA曲线的走向。这属于技术指标的背离，具体地说，如果DIF或DEA的走向与价格走向相背离，则是采取行动的信号 &amp;mdash;- 底背离买进，顶背离卖出。&lt;/li>
+&lt;/ol>
+&lt;p>参考：&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/153426634">https://zhuanlan.zhihu.com/p/153426634&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/138533574">https://zhuanlan.zhihu.com/p/138533574&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/361132689">https://zhuanlan.zhihu.com/p/361132689&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/261362694">https://zhuanlan.zhihu.com/p/261362694&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Docs: 债券</title><link>https://javioustlj.github.io/finance-note/docs/securities/bond/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/securities/bond/</guid><description>
+&lt;h2 id="1-债券的概念">1. 债券的概念&lt;/h2>
+&lt;p>债券（bond）是一种金融契约，是政府、金融机构、工商企业等机构在直接向社会借债筹措资金时，向投资者发行的，同时承诺按一定利率支付利息并按约定条件偿还本金的债权债务凭证。&lt;/p>
+&lt;p>债券购买者（投资者）与发行人之间是一种债权债务关系，债券发行人就是债务人，投资者就是债权人。&lt;/p>
+&lt;p>债券的本质是债的证明书，具有法律效力。&lt;/p>
+&lt;h2 id="2-债券的基本要素">2. 债券的基本要素&lt;/h2>
+&lt;p>债券尽管种类多种多样，但在内容上都要包含一些基本要素。这些要素是指发行的债券上必须要载明的基本内容，这是明确债权人和债务人权利与义务的主要约定。&lt;/p>
+&lt;ol>
+&lt;li>债券面值。债券面值是指债券的票面价值，是发行人对债券持有人在债券到期后应偿还的本金数额，也是发行人向债券持有人按期支付利息的计算依据。债券面值与债券实际的发行价格并不一定是一致的，发行价格大于面值成为溢价发行，小于面值成为折价发行。在中国，债券面值通常是100元人民币。&lt;/li>
+&lt;li>票面利率。债券的票面利率是指债券利息与债券面值的比率，是发行人承诺以后一定时期支付给债券持有人报酬的计算标准。债券票面利率的确定受到很多因素的影响，比如银行利率、发行者的资信状况、偿还期限、市场上资金是否充足等。&lt;/li>
+&lt;li>付息期。债券的付息期是指发行人在发行债券后的利息支付时间。它可以是到期一次支付，或一年、半年、每季度支付一次。如果考虑货币时间价值和通货膨胀因素，那么付息期对债券投资者的实际收益有很大影响。&lt;/li>
+&lt;li>偿还期。债券的偿还期是指债券上载明的偿还债券本金的期限。&lt;/li>
+&lt;/ol>
+&lt;h2 id="3-债券的特征">3. 债券的特征&lt;/h2>
+&lt;ol>
+&lt;li>偿还行。还本付息。&lt;/li>
+&lt;li>流通性。大多数债券可以在流通市场上自由转让。&lt;/li>
+&lt;li>安全性。在发行者不破产的情况下，债券具有固定的利率，收益比较稳定。在企业破产时，相对于股票持有者，债券持有者享有对企业剩余资产的优先索取权。&lt;/li>
+&lt;li>收益性。其一是利息收入；其二是债券价格变动带来的差额。&lt;/li>
+&lt;/ol>
+&lt;h2 id="4-债券的分类">4. 债券的分类&lt;/h2>
+&lt;h3 id="41-根据是否约定利息划分">4.1. 根据是否约定利息划分&lt;/h3>
+&lt;ol>
+&lt;li>零息债券。未约定支付利息，一般低于面值发行。&lt;/li>
+&lt;li>付息债权。按照付息期支付利息。&lt;/li>
+&lt;li>息票累计债券。债券到期一次性归还本息，期间不支付利息。&lt;/li>
+&lt;/ol>
+&lt;h3 id="42-根据债券券面形态划分">4.2. 根据债券券面形态划分&lt;/h3>
+&lt;ol>
+&lt;li>实物债券。它是具有标准格式实物券面的债券。在其券面上，一般印制了债券面额、债券利率、债券期限、债券发行人全称、还本付息方式等各种债券票面要素，不记名、不挂失，可上市流通。&lt;/li>
+&lt;li>凭证式债券。债权人认购债券的收款凭证，而不是债券发行人制定的标准格式债券。&lt;/li>
+&lt;li>国家储蓄债 &amp;ndash; 凭证式国债收款凭证。可记名、挂失，不可上市流通。持有期提前支取，按持有天数支付利息。&lt;/li>
+&lt;li>记账式债券。无实物形态的票券，利用账户通过计算机系统完成债券发行、交易及对付的全过程，我国从1994年开始发行。记账式债券可记名、挂失，可上市流通，安全性好。&lt;/li>
+&lt;/ol>
+&lt;h3 id="43-根据发行主体划分">4.3. 根据发行主体划分&lt;/h3>
+&lt;ol>
+&lt;li>政府债券（国债），是国家为筹集资金而向投资者出具的、承诺在一定时期支付利息和到期偿还本金的债务凭证。由于它的发行主体是国家，所以具有最高的信用度，被公认为最安全的投资工具。&lt;/li>
+&lt;li>金融债券，是银行等金融机构作为筹资主体为筹措资金而向投资者发行的一种有价证券。&lt;/li>
+&lt;li>公司债券，是由公司依照法定程序发行的、约定在一定期限还本付息的有价证券。&lt;/li>
+&lt;/ol>
+&lt;h3 id="44-根据是否由财产担保划分">4.4. 根据是否由财产担保划分&lt;/h3>
+&lt;ol>
+&lt;li>抵押债券，是以企业财产作为担保的债券，按抵押品的不同又可以分为一般抵押债券、不动产抵押债券、动产抵押债券和证券信用抵押债券。抵押债券可以分为封闭式和开放式两种。“封闭式”公司债券的发行额会受到限制，即不能超过其抵押资产的价值；“开放式”公司债券的发行额不受限制。抵押债券的价值取决于担保资产的价值。抵押品的价值一般超过它所提供担保债券价值的 $ 25% ~ 30% $&lt;/li>
+&lt;li>信用债券，是不以任何公司财产作为担保、完全凭信用发行的债券。其持有人只对公司的非抵押资产具有追索权，企业的盈利能力是这些债券投资人的主要担保。因为信用债券没有财产担保，所以在债券契约中都要加入保护性条款，如不能将资产抵押给其他债权人、不能兼并其他企业、未经债权人同意不能出售资产、不能发行其他长期债券等。&lt;/li>
+&lt;/ol>
+&lt;h3 id="45-根据是否能转换为公司股票划分">4.5. 根据是否能转换为公司股票划分&lt;/h3>
+&lt;ol>
+&lt;li>可转换债券，是指在特定时期内可以按其某一固定的比例转换成普通股的债券。&lt;/li>
+&lt;li>不可转换债券，即普通债券，不能转换为普通股的债券。&lt;/li>
+&lt;/ol>
+&lt;h3 id="46-根据利率是否固定划分">4.6. 根据利率是否固定划分&lt;/h3>
+&lt;ol>
+&lt;li>固定利率债券，利率不随市场利率的变化而调整。固定利率债券可以用于地址通货紧缩。&lt;/li>
+&lt;li>浮动利率债券，是指债券利率随市场利率变动而调整的债券。浮动利率债券的利率同当前市场利率挂钩，当前市场利率会考虑通货膨胀率的影响，浮动利率债券可以较好地抵制通货膨胀风险。&lt;/li>
+&lt;/ol>
+&lt;h3 id="47-根据是否能够提前偿还划分">4.7. 根据是否能够提前偿还划分&lt;/h3>
+&lt;ol>
+&lt;li>可赎回债券，是指在债券到期前，发行人可以按实现约定的赎回价格收回的债券。&lt;/li>
+&lt;li>不可赎回债券，是指不能在债券到期前收回的债券。&lt;/li>
+&lt;/ol>
+&lt;h3 id="48-根据偿还方式不同划分">4.8. 根据偿还方式不同划分&lt;/h3>
+&lt;ol>
+&lt;li>一次到期债权，是发行公司于债券到期日一次偿还全部债券本金的债券。&lt;/li>
+&lt;li>分期到期债券，是指在债券发行的当时就规定有不同到期日的债券，即分批偿还本金的债券。&lt;/li>
+&lt;/ol>
+&lt;h2 id="5-债券的收益率的计算">5. 债券的收益率的计算&lt;/h2>
+&lt;p>人们在做投资时，收益率是需要最关心的一个指标。但收益通常需要考虑货币的时间价值。&lt;/p>
+&lt;p>如果给你一个选择，今天给你100元或者1年后给你100元，正常人都会毫不犹豫的选择今天的100元。这实际上就是货币的时间价值。&lt;/p>
+&lt;p>如何来准确地计算出货币的时间价值？这需要借助两组概念：终值与现值，单利与复利。&lt;/p>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>终值是指现在的资金在未来某个时刻的价值。&lt;/p>
 &lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>现值是指未来某个时刻的资金在现在的价值。&lt;/p>
 &lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Configuring Ponycopters</title><link>https://javioustlj.github.io/finance-note/docs/tasks/ponycopters/configuring-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tasks/ponycopters/configuring-ponycopters/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
-&lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>单利，是指无论时间多长，只按本金计算利息，上期的利息不计入本金内重复计算利息。&lt;/p>
 &lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>复利，是指除本金计算利息外，要将期间所生利息一并加入本金计算利息，即所谓的“利滚利”。&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Launching Ponycopters</title><link>https://javioustlj.github.io/finance-note/docs/tasks/ponycopters/launching-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tasks/ponycopters/launching-ponycopters/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
+&lt;h3 id="51-终值的计算">5.1. 终值的计算&lt;/h3>
+&lt;p>设$FV$为单利终值，$P$为本金，$r$为每期利率，$n$为计息的期数。&lt;/p>
+&lt;h4 id="511-单利终值的计算">5.1.1. 单利终值的计算&lt;/h4>
+&lt;p>单利终值为：&lt;/p>
+&lt;p>$$ FV = P(1+nr) $$&lt;/p>
+&lt;h4 id="512-复利终值的计算">5.1.2. 复利终值的计算&lt;/h4>
+&lt;p>第1期末的复利终值为：&lt;/p>
+&lt;p>$$ FV_1 = P(1+r) $$&lt;/p>
+&lt;p>第2期末的复利终值为：&lt;/p>
+&lt;p>$$ FV_2 = FV_1(1+r) = P(1+r)(1+r) = P(1+r)^2 $$&lt;/p>
+&lt;p>第3期末的复利终值为：&lt;/p>
+&lt;p>$$ FV_3 = FV_2(1+r) = P(1+r)^2(1+r) = P(1+r)^3 $$&lt;/p>
+&lt;p>第n期末的复利终值为：&lt;/p>
+&lt;p>$$ FV_n = FV_{n-1}(1+r) = P(1+r)^n$$&lt;/p>
+&lt;h4 id="513-年金终值的计算">5.1.3. 年金终值的计算&lt;/h4>
+&lt;p>年金是指在相同的间隔时间内陆续收到或付出相同金额的款项，比如分期付款买房、分期偿还贷款、发放养老金等，都属于年金收付的形式。按照收付的时间，年金终值的计算可以划分为以下两类：&lt;/p>
+&lt;h5 id="5131-后付年金的计算">5.1.3.1. 后付年金的计算&lt;/h5>
+&lt;p>普通年金（后付年金）是指在各期期末收入或付出的年金。&lt;/p>
+&lt;p>设$A$表示每期期末收付的金额，$F_k$ 为金额A在k期后的终值，$n$为复利期数，$FV$为年金终值。&lt;/p>
+&lt;p>$$
+FV = F_0 + F_1 + F_2 + \cdots + F_{n-2} + F_{n-1}
+$$&lt;/p>
+&lt;p>设$r$为每期利率，则复利终值为：&lt;/p>
+&lt;p>$$
+F_k = F_0(1+r)^k \qquad k = 0, 1, 2, 3, \cdots , n -1
+$$&lt;/p>
+&lt;p>而$F_0 = A$, 所以&lt;/p>
+&lt;p>$$
+\begin{align}
+FV &amp;amp;= F_0 + F_1 + F_2 + \cdots + F_{n - 1} \notag \\
+&amp;amp;= A + A(1+r) + A(1+r)^2 + \cdots + A(1+r)^{n-1} \notag \\
+&amp;amp;= A\frac{(1+r)^n - 1}{r} \notag
+\end{align}
+$$&lt;/p>
+&lt;h5 id="5132-预付年金的计算">5.1.3.2. 预付年金的计算&lt;/h5>
+&lt;p>$$
+\begin{align}
+FV &amp;amp;= F_1 + F_2 + \cdots + F_{n - 1} + F_n \notag \\
+&amp;amp;= A + A(1+r) + A(1+r)^2 + \cdots + A(1+r)^{n-1} + A(1+r)^n \notag \\
+&amp;amp;= A\frac{(1+r)^n - 1}{r}(1+r) \notag
+\end{align}
+$$&lt;/p>
+&lt;h3 id="52-现值的计算">5.2. 现值的计算&lt;/h3>
+&lt;h4 id="521-复利现值的计算">5.2.1. 复利现值的计算&lt;/h4>
+&lt;p>求现值的过程与求终值的过程正好相反。根据复利终值的计算公式可得复利现值为：&lt;/p>
+&lt;p>$$
+P = \frac{FV}{(1+r)^n}
+$$&lt;/p>
+&lt;h5 id="5211-年金现值的计算">5.2.1.1. 年金现值的计算&lt;/h5>
 &lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>后付年金现值的计算&lt;/li>
 &lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
+&lt;p>$$
+PV = P_1 + P_2 + \cdots + P_{n-1} + P_n
+$$&lt;/p>
+&lt;p>$$
+P_k = A(1+r)^{-k} \qquad k = 1, 2, 3, \cdots , n-1, n
+$$&lt;/p>
+&lt;p>$$
+PV = A(1+r){-1} + A(1+r){-2} + \cdots + A(1+r){-(n-1)} + A(1+r){-n} \
+= A\frac{1 - (1+r)^{-n}}{r}
+$$&lt;/p>
+&lt;ol start="2">
+&lt;li>预付年金现值的计算。&lt;/li>
+&lt;/ol>
+&lt;p>$$
+PV = P_0 + P_1 + P_2 + \cdots + P_{n-1} \notag \
+= A + A(1+r){-1} + A(1+r){-2} + \cdots + A(1+r){-(n-1)} \notag \
+= A\frac{1 - (1+r)^{-n}}{r}(1+r)
+$$&lt;/p>
+&lt;ol start="3">
+&lt;li>永续年金现值的计算&lt;/li>
+&lt;/ol>
+&lt;p>永续年金是无期限定额支付的年金，它没有终止的时间，也就没有终值。永续年金现值的计算可以由普通年金现值的计算公式推导出来。&lt;/p>
+&lt;p>$$
+PV = \frac{A}{r}
+$$&lt;/p>
+&lt;h3 id="53-债券收益率">5.3. 债券收益率&lt;/h3>
+&lt;p>为了精确衡量债券收益，一般使用债券收益率这个指标。债券收益率是债券收益与其投入本金的比率，通常用年率表示。&lt;/p>
+&lt;p>债券收益和债券利息并不相同。这是由于人们在债券持有期内还可以在债券市场上进行买卖，以赚取价差，因此债券收益除利息收入外，还包括买卖盈亏差价。&lt;/p>
+&lt;p>决定债券收益率的主要因素有债券的票面利率、期限、面值和购买价格。&lt;/p>
+&lt;p>最基本的债券收益率公式为：&lt;/p>
+&lt;p>$$
+债券收益率 = \frac{到期本息和 - 发行价格}{发行价格 \times 偿还期限} \times 100%
+$$&lt;/p>
+&lt;p>在债券偿还期内可以转让债券，因此我们可以将买卖差价计算在内。&lt;/p>
+&lt;p>$$
+债券出售者的收益率 = \frac{卖出价格 - 买入价格 + 持有期间的利息}{买入价格 \times 持有年限} \times 100%
+$$&lt;/p>
+&lt;p>$$
+债券购买者的收益率 = \frac{到期本息和 - 买入价格}{买入价格 \times 持有年限} \times 100%
+$$&lt;/p>
+&lt;h2 id="6-债券的税务规定">6. 债券的税务规定&lt;/h2>
+&lt;p>以下来自于工商银行的在线客服：&lt;/p>
+&lt;p>根据相关规定，个人投资者投资债券的利息收入应纳个人所得税，但投资“国债和国家发行的金融债券利息”免纳个人所得税。&lt;/p>
+&lt;p>根据国家开发银行、中国进出口银行和中国农业发展银行成立文件规定，个人投资者投资上述三家机构发行债券获得的相应债券利息收入可免征个人所得税。&lt;/p>
+&lt;p>个人投资者投资中国国家铁路集团有限公司发行的企业债、短期融资券和中期票据的利息收入根据发行文件规定的税率和缴税方式进行缴纳。个人投资者交易上述4家机构债券获得的价差收入（即财产转让所得）要缴纳个人所得税，可由个人投资者本人作为纳税义务人自行申报并缴纳。个人投资者投资交易上述4家机构债券所取得的所有收入暂免征收增值税。&lt;/p>
+&lt;p>个人投资者投资地方政府债获得的利息收入免征个人所得税和增值税。个人投资国债获得的价差收入（即从事金融商品抓让业务，亦为财产转让所得）免征增值税，但要缴纳个人所得税，可有个人投资者本人作为纳税义务人自行申报并纳税。&lt;/p></description></item><item><title>Docs: MACD</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/macd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/macd/</guid><description>
+&lt;h2 id="平滑异同移动平均线-macdmoving-average-convergence-and-divergence">平滑异同移动平均线 MACD(Moving Average Convergence and Divergence)&lt;/h2>
 &lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
+&lt;li>MACD (Moving Average Converagence and Divergence) 平滑异同移动平均线&lt;/li>
+&lt;li>DIF (Difference) 正负差&lt;/li>
+&lt;li>DEA (Difference exponential average) 异同平均数&lt;/li>
+&lt;li>EMA (Exponential Moving Average) 指数移动平均线&lt;/li>
 &lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
+&lt;h3 id="macd-的计算">MACD 的计算&lt;/h3>
+&lt;p>MACD的计算比较复杂，它是由DIF和DEA两部分组成，DIF是核心，DEA是辅助。但是MIF和DEA的计算都依赖于EMA.&lt;/p>
+&lt;p>EMA是 Exponential Moving Average 的缩写，称作指数移动平均线。&lt;/p>
+&lt;p>EMA公式如下：&lt;/p>
+&lt;p>$$
+EMA(P_{close}, N)&lt;em>{today} = a \times P&lt;/em>{close} + (1 - a) \times EMA_{yesterday}
+$$&lt;/p>
+&lt;p>其中 $a = \frac{2}{N+1}$,&lt;/p>
+&lt;p>设$P_i$ 为每日收盘价，其中 $i = 1, 2, \cdots n$， 默认 $EMA(1) = P_1$&lt;/p>
+&lt;p>$$
+\begin{align}
+EMA(1) &amp;amp;= P_1 \notag \\
+EMA(2) &amp;amp;= aP_2 + （1-a)P_1 \notag \\
+EMA(3) &amp;amp;= aP_3 + a(1-a)P_2 + (1-a)^2P_1 \notag \\
+\cdots \notag \\
+EMA(n) &amp;amp;= aP_n + a(1-a)P_{n-1} + a(1-a)^2P_{n-2} + \cdots + a(1-a)^{n-2}P_2 + (1-a)^{n-1}P_1 \notag
+\end{align}
+$$&lt;/p>
+&lt;p>从上面的公式可以看出，a越大，最新价对EMA的影响就越大；a越小，最新价对EMA的影响就越小。而a是和N成反比的，即N越小，则最新价对EMA的影响就越大；N越大，最新价对EMA的影响就越小。&lt;/p>
+&lt;p>所以我们可以说 $EMA(P_{close}, 12)$ 比 $EMA(P_{close}, 26)$ 对于最新价格的变化更为的灵敏。&lt;/p>
+&lt;p>$$
+DIF = EMA(P_{close}, 12) - EMA(P_{close}, 26)
+$$&lt;/p>
+&lt;p>$$
+DEA = EMA(DIF_{today}, 9)
+$$&lt;/p>
+&lt;p>$$
+MACD = BAR = 2 \times (DIF - DEA)
+$$&lt;/p>
+&lt;h3 id="macd-各指标的意义">MACD 各指标的意义&lt;/h3>
+&lt;h4 id="dif-意义">DIF 意义&lt;/h4>
 &lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
+&lt;li>$DIF &amp;gt; 0$，说明短期指数平滑线比长期指数平滑线高，是多头市场，股票价格处于上涨阶段。&lt;/li>
+&lt;li>$DIF &amp;lt; 0$，说明短期指数平滑线比长期指数平滑线低，是空头市场，股票价格处于下跌阶段。&lt;/li>
+&lt;li>$DIF$ 的绝对值越大表明上涨或下跌的趋势越强烈。&lt;/li>
 &lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Multi-Bear Domicile Setup</title><link>https://javioustlj.github.io/finance-note/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tutorials/multi-bear/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
+&lt;h4 id="dea-意义">DEA 意义&lt;/h4>
+&lt;p>DEA 一般不会单独应用，它是DIF的补充，相对来说DEA变化的更缓慢平滑。&lt;/p>
 &lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>$DEA &amp;gt; 0$，说明短期指数平滑线比长期指数平滑线高，是多头市场，股票价格处于上涨阶段。&lt;/li>
+&lt;li>$DEA &amp;lt; 0$，说明短期指数平滑线比长期指数平滑线低，是空头市场，股票价格处于下跌阶段。&lt;/li>
+&lt;li>$DEA$ 的绝对值越大表明上涨或下跌的趋势越强烈。&lt;/li>
 &lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
+&lt;h4 id="macd的意义">MACD的意义&lt;/h4>
 &lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
+&lt;li>$MACD &amp;gt; 0$，即DIF上穿DEA，说明DIF趋势变化走强，此时显示为hong&lt;/li>
+&lt;li>$DEA &amp;lt; 0$，说明短期指数平滑线比长期指数平滑线低，是空头市场，股票价格处于下跌阶段。&lt;/li>
+&lt;li>$DEA$ 的绝对值越大表明上涨或下跌的趋势越强烈。&lt;/li>
 &lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Porridge Assessment</title><link>https://javioustlj.github.io/finance-note/docs/tasks/porridge/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tasks/porridge/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
+&lt;h3 id="macd的应用">MACD的应用&lt;/h3>
 &lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>考虑DIF和DEA的取值和两者之间的相对取值。$DIF &amp;gt; 0$，说明是多头市场，当DIF 和DEA都是正值时，多头市场的信号更明确。DIF向上突破DEA是买入信号，DIF向下跌破DEA应获利了结。反之，当DIF和DEA均为负值时，属于空头市场。&lt;/li>
+&lt;li>考虑DIF和DEA曲线的走向。这属于技术指标的背离，具体地说，如果DIF或DEA的走向与价格走向相背离，则是采取行动的信号 &amp;mdash;- 底背离买进，顶背离卖出。&lt;/li>
 &lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
+&lt;p>参考：&lt;/p>
 &lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/153426634">https://zhuanlan.zhihu.com/p/153426634&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/138533574">https://zhuanlan.zhihu.com/p/138533574&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/361132689">https://zhuanlan.zhihu.com/p/361132689&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/261362694">https://zhuanlan.zhihu.com/p/261362694&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Docs: 证券市场</title><link>https://javioustlj.github.io/finance-note/docs/securities/market/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/securities/market/</guid><description>
+&lt;h2 id="证券交易所">证券交易所&lt;/h2>
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
+&lt;li>&lt;a href="http://www.sse.com.cn/">上海证券交易所&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.szse.cn/">深圳证券交易所&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bse.cn/">北京证券交易所&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
+&lt;h2 id="a股-股票代码分配规则">A股 股票代码分配规则&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
+&lt;th style="text-align:left">板块&lt;/th>
+&lt;th style="text-align:left">代码特征&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
+&lt;td style="text-align:left">上海主板&lt;/td>
+&lt;td style="text-align:left">600、601、603、605 开头&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
+&lt;td style="text-align:left">深圳主板&lt;/td>
+&lt;td style="text-align:left">000、001、002、003 开头&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
+&lt;td style="text-align:left">创业板&lt;/td>
+&lt;td style="text-align:left">300、301 开头&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
+&lt;td style="text-align:left">科创板&lt;/td>
+&lt;td style="text-align:left">688 开头&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
+&lt;td style="text-align:left">北交所及新三板&lt;/td>
+&lt;td style="text-align:left">43、83、87、88 开头&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Task</title><link>https://javioustlj.github.io/finance-note/docs/tasks/task/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tasks/task/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
-&lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Tutorial</title><link>https://javioustlj.github.io/finance-note/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/tutorials/tutorial2/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
-&lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Example Page</title><link>https://javioustlj.github.io/finance-note/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/getting-started/example-page/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
-&lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="this-document">This Document&lt;/h3>
-&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
-&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
-&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
-&lt;h3 id="contact-info">Contact Info&lt;/h3>
-&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
-&lt;h3 id="external-links">External Links&lt;/h3>
-&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
-&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Parameter Reference</title><link>https://javioustlj.github.io/finance-note/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/reference/parameter-reference/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
-&lt;/div>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
-&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header-2">First Header 2&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
-&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
-&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre tabindex="0">&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
-&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
-&lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Liverpool F.C.&lt;/li>
-&lt;li>Chelsea F.C.&lt;/li>
-&lt;li>Manchester United F.C.&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Brecker&lt;/li>
-&lt;li>Seamus Blake&lt;/li>
-&lt;li>Branford Marsalis&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
-bar := &amp;#34;foo&amp;#34;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
-&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note&lt;/h4>
-This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
-&lt;/div>
-&lt;div class="alert alert-success" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-This is a warning.
-&lt;/div>
-&lt;div class="alert alert-warning" role="alert">
-&lt;h4 class="alert-heading">Warning&lt;/h4>
-This is a warning with a title.
-&lt;/div>
-&lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2></description></item></channel></rss>
+&lt;h2 id="主板">主板&lt;/h2>
+&lt;p>主板又称为一板市场或一级市场，是指传统意义上的证券市场，是一个国家或地区证券发行、上市及交易的紧要场所。&lt;/p>
+&lt;p>因为是第一批出现的上市公司向大众融资的市场，大家知道，凡事都有第一次，主板其实就是个试验工具，因为当时是新中国第一次搞资本市场，全国只有两个板，一是上海主板二是深圳主板。&lt;/p>
+&lt;p>而当时被试验上市的公司基本都是国企央企或一些明显的龙头公司，因为这些权重大的股票云集，所以沪深两市第一次搞的这个投融资平台便真正成了全国资本市场的主板。&lt;/p>
+&lt;h2 id="创业板">创业板&lt;/h2>
+&lt;p>创业板市场，也可称为二板市场，第二交易系统。它是指交易所主板市场以外的另一个证券市场。&lt;/p>
+&lt;p>顾名思义，着眼于创业，是为了适应自主创新企业及其他成长型创业企业发展需要而设立的市场。
+我国创业板股票在是深圳争取按交易所上市并交易，上市门槛比主板低，成长性和风险均要高于主板。&lt;/p>
+&lt;h2 id="科创板">科创板&lt;/h2>
+&lt;p>科创板即科技创新板，在上海证券交易所上市并交易，主要服务于符合国家战略、突破关键核心技术、市场认可度高的科技创新企业。&lt;/p>
+&lt;p>科创板独立于主板和创业板，风险更大，准入门槛更高。&lt;/p>
+&lt;h2 id="新三板">新三板&lt;/h2>
+&lt;p>新三板是指全国中小企业股份转让系统，挂牌企业不同于原转让系统内的退市企业及原STAQ、NET系统（老三板）挂牌公司，故形象地称为“新三板”。&lt;/p>
+&lt;p>新三板交易门槛更高，普通散户交易者一般没有权限。&lt;/p>
+&lt;p>北京证券交易所2022年成立，可以交易挂牌地新三板的股票。&lt;/p>
+&lt;h2 id="老三板">老三板&lt;/h2>
+&lt;h2 id="中小板">中小板&lt;/h2>
+&lt;h2 id="个人交易者">个人交易者&lt;/h2>
+&lt;p>个人交易者一般可以交易 主板 创业板和科创板的股票。北京证券交易所成立后，也可交易新三板的股票。&lt;/p></description></item><item><title>Docs: BIAS</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/bias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/bias/</guid><description>
+&lt;h2 id="乖离率-bias-bias-ratio">乖离率 BIAS (Bias Ratio)&lt;/h2>
+&lt;h3 id="乖离率是什么">乖离率是什么？&lt;/h3>
+&lt;p>乖离率的英文是BIAS。&lt;/p>
+&lt;p>bias 是一个单词 其英文释义是：&lt;/p>
+&lt;p>the fact that the results of research of an experiment are not accurate because a particular factor has not been considered when collecting the information.&lt;/p>
+&lt;p>bias 在数学或统计学中也可翻译为偏差。&lt;/p>
+&lt;p>在对bias这个单词的意义了解之后，我们可能对乖离率这个技术指标的意义有了大致的猜测。&lt;/p>
+&lt;p>通俗的讲，乖离率（BIAS）指标就是反应当前价格偏离移动平均线（MA）的程度。&lt;/p>
+&lt;p>乖离率指标建立在移动平均的基础上，是由移动平均演变出来的一种技术指标，它通过研判股价在运作过程中与移动均线的分离、聚合程度来指导买卖操作。&lt;/p>
+&lt;h3 id="乖离率的计算">乖离率的计算&lt;/h3>
+&lt;p>乖离率反应的是价格与价格平均的偏离程度，其计算公式如下：&lt;/p>
+&lt;p>$$
+BIAS(n) = \frac{P_{close} - MA(n)}{MA(n)} \times 100
+$$&lt;/p>
+&lt;p>式中，$P_{close}$为收盘价；$MA(n)$为参数$n$天的移动平均；&lt;/p>
+&lt;p>乖离率的参数是移动平均线的参数$n$。$n$首先影响$MA$，然后影响$BIAS$。一般来说，$n$选的越大，允许价格远离MA的程度越大。&lt;/p>
+&lt;h3 id="乖离率的应用">乖离率的应用&lt;/h3>
+&lt;p>第一，考虑BIAS的取值大小。这是产生BIAS的最初的想法，只要BIAS超过某个数值，就应该感到危险（机会）而考虑抛出（买入）。问题的关键在于如何找到这个分界线。&lt;/p>
+&lt;p>分界线的选择与两个因素有关：首先，BIAS的参数n天的大小。n越大，分界线相应的也应该越高。其次，具体证券在市场中的活跃程度。证券越活跃，分界线越高。&lt;/p>
+&lt;p>第二，考虑BIAS与价格的背离。BIAS形成从上到下的两个或多个下降的峰，而此时价格还在继续上升，是抛出的信号。BIAS形成从下到上的两个或多个上升的谷，而此时价格还在继续下跌，是买入的信号。&lt;/p></description></item></channel></rss>
