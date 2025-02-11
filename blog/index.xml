@@ -1,55 +1,7 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>投资集思录 – 博客</title><link>https://javioustlj.github.io/finance-note/blog/</link><description>Recent content in 博客 on 投资集思录</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://javioustlj.github.io/finance-note/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Awesome Quant</title><link>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</guid><description>
-&lt;h3 id="github-repo">Github repo&lt;/h3>
-&lt;ol>
-&lt;li>&lt;a href="https://github.com/wangzhe3224/awesome-systematic-trading">Awesome systematic trading&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;h3 id="博客">博客&lt;/h3>
-&lt;ol>
-&lt;li>&lt;a href="https://wangzhe3224.github.io/">FunCoder&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;h3 id="知乎">知乎&lt;/h3>
-&lt;p>用户：&lt;/p>
-&lt;ol>
-&lt;li>&lt;a href="https://www.zhihu.com/people/wangzhetju">泛程序员&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.zhihu.com/people/optmaster">optMaster&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;p>问题：&lt;/p>
-&lt;ol>
-&lt;li>&lt;a href="https://www.zhihu.com/question/418804367">量化交易框架vnpy vs backtrader，请大神点评各自优缺点，尤其在数字货币领域？&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;p>150 Most Frequently Asked Questions on Quant Interviews
-A Practical Guide to Quantitative Finance Interviews
-Quant Job Interview Questions And Answers&lt;/p>
-&lt;p>现代投资组合理论与投资分析 作者埃尔顿、格鲁伯、布朗和戈茨曼&lt;/p>
-&lt;h3 id="证书">证书&lt;/h3>
-&lt;ul>
-&lt;li>CQF 国际量化金融分析师&lt;/li>
-&lt;li>CPA 中国注册会计师 CICPA&lt;/li>
-&lt;li>CFA 特许金融分析师&lt;/li>
-&lt;li>ACCA 英国特许公认会计师公会&lt;/li>
-&lt;/ul>
-&lt;h3 id="书籍">书籍&lt;/h3>
-&lt;p>入门&lt;/p>
-&lt;ul>
-&lt;li>Algorithmic Trading: Winning Strategies and Their Rationale&lt;/li>
-&lt;li>Quantitative Trading: How to Build Your Own Algorithmic Trading Business&lt;/li>
-&lt;/ul>
-&lt;p>进阶&lt;/p>
-&lt;ul>
-&lt;li>Systematic Trading: Aunique new method for designing trading and investing systems&lt;/li>
-&lt;li>Smart Portfolio: A practical guide to building and maintaining investment portfolios
-Python 实践&lt;/li>
-&lt;li>Python for Algorithmic Trading: From Idea to Cloud Deployment&lt;/li>
-&lt;/ul>
-&lt;p>一些概念性的知识&lt;/p>
-&lt;ul>
-&lt;li>Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined&lt;/li>
-&lt;li>Quantitative Equity Portfolio Management&lt;/li>
-&lt;/ul>
-&lt;h3 id="python-库">python 库&lt;/h3>
-&lt;ul>
-&lt;li>numpy&lt;/li>
-&lt;li>pandans&lt;/li>
-&lt;li>matplotlib&lt;/li>
-&lt;li>seaborn (可视化库)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>博客 on 投资集思录</title><link>https://javioustlj.github.io/finance-note/blog/</link><description>Recent content in 博客 on 投资集思录</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://javioustlj.github.io/finance-note/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Awesome Quant</title><link>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</guid><description>Github repo Awesome systematic trading 博客 FunCoder 知乎 用户：
+泛程序员 optMaster 问题：
+量化交易框架vnpy vs backtrader，请大神点评各自优缺点，尤其在数字货币领域？ 150 Most Frequently Asked Questions on Quant Interviews A Practical Guide to Quantitative Finance Interviews Quant Job Interview Questions And Answers
+现代投资组合理论与投资分析 作者埃尔顿、格鲁伯、布朗和戈茨曼
+证书 CQF 国际量化金融分析师 CPA 中国注册会计师 CICPA CFA 特许金融分析师 ACCA 英国特许公认会计师公会 书籍 入门
+Algorithmic Trading: Winning Strategies and Their Rationale Quantitative Trading: How to Build Your Own Algorithmic Trading Business 进阶
+Systematic Trading: Aunique new method for designing trading and investing systems Smart Portfolio: A practical guide to building and maintaining investment portfolios Python 实践 Python for Algorithmic Trading: From Idea to Cloud Deployment 一些概念性的知识</description></item></channel></rss>
