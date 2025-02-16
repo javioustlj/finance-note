@@ -56,6 +56,9 @@ Python 实践
 - Quantitative Equity Portfolio Management
 
 
+- 金融随机分析
+- 金融衍生品
+
 ### python 库
 
 - numpy
