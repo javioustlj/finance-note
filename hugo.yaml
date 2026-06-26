@@ -57,25 +57,8 @@ languages:
     label: English
     weight: 1
     params:
-      title: Goldydocs
-      description: A Docsy example site
-  no:
-    label: Norsk
-    contentDir: content/no
-    params:
-      title: Goldydocs
-      description: Docsy er operativsystem for skyen
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  fa:
-    direction: rtl
-    label: 'فارسی'
-    contentDir: content/fa
-    params:
-      title: 'اسناد گلدی'
-      description: 'یک نمونه برای پوسته داکسی'
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
+      title: Finance Note
+      description: Investment ideas collection
   zh-cn:
     label: 中文
     contentDir: content/zh-cn
