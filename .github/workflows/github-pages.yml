@@ -5,6 +5,13 @@ on:
     branches:
       - note
 
+permissions:
+  contents: write
+
+concurrency:
+  group: github-pages-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -22,12 +29,13 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version-file: 'package.json'
+          node-version-file: '.nvmrc'
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm install --no-package-lock
 
       - name: Build
-        run: hugo --minify
+        run: npm run build:production
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -35,4 +43,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
-

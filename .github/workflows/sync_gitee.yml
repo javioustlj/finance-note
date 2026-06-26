@@ -1,5 +1,10 @@
 name: sync to gitee
-on: [push]
+
+on:
+  push:
+    branches:
+      - note
+
 jobs:
   build:
     runs-on: ubuntu-latest
