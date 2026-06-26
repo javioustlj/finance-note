@@ -1,104 +1,419 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>投资集思录</title><link>https://javioustlj.github.io/finance-note/</link><description>Recent content on 投资集思录</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://javioustlj.github.io/finance-note/index.xml" rel="self" type="application/rss+xml"/><item><title>技术指标</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/jishuzhibiao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/jishuzhibiao/</guid><description>技术指标是技术分析重要的组成部分，全世界有千种以上的各种各样的技术指标。
-技术指标的概述 技术指标的本质 按照一定的数学方法对证券相关数据进行处理，数据经过处理可以得到更有用直观的数值，这就是技术指标。
-处理数据的数学方法是多种多样的，这也就产生了多种多样的技术指标。梅贻泓技术指标都是以一个特定的方式对市场进行观察，反映市场某一方面的内涵，仅仅通过原始数据是很难看出这些内涵。技术指标将某些对市场的定性认识进行定量分析，可以使具体操作的精确度提高。
-如何使用技术指标? 可以从以下六个方面考虑应用指标：
-背离。背离是指指标的走向与价格走向不一致，这有可能是指标提前于价格的反应。 交叉。交叉是指标曲线图中的两条线发生了交叉现象，金叉和死叉就属于这类情况。 极端值。极值是指标的数值达到了一个极高或基地的位置，即将发生转折，是判断超卖，超买的重要参考。 形态。这是指指标曲线呈现出某种有规律的形态，可以根据规律做出判断。 转折。这是指指标的曲线发生了掉头，通常来说价格也可能发生了掉头，是非常值得注意的时刻。 趋势。这是指指标曲线波动的方向，是向上还是向下。 技术指标应注意的问题 技术指标只是观察市场描述市场的一种工具，每种工具都有自己的适用范围和使用环境。使用技术指标最忌讳机械地照搬理论，忽略这些结论成立的条件。
-不能盲目地绝对相信技术指标。技术指标有一定的局限性。因为技术指标是对过去的证券数据进行分析，而将来是不可能被100%预测的。 不能认为技术指标甚至技术分析毫无作用。技术分析有点统计学的味道，尽管我不能准确预测明天的市场，但是能大概率反应明天市场的情况。</description></item><item><title>MA</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/ma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/ma/</guid><description>移动平均线 MA (Moving Average) MA的计算 $$ MA(n) = \frac{n天的价格相加}{n} $$
-MA就是连续若干天的价格的算数平均。天数通常选为5日（一周），10日（两周），20日（一月），60日（三月），120日（半年），250日（一年）等
-MA的特性和作用 追踪趋势。MA能够表示价格的趋势，不受小的反向波动影响，并追随这个趋势。原始数据得到的价格图标不是很容易看出这个趋势。 滞后性和稳定性。由于MA是由多天的价格的平均，所以一天的变动对MA的影响就没那么大，所以MA的值相对证券价格来说比较稳定不会被暂时的小的波动所迷惑，但同时，它反应趋势变化也会滞后于趋势本身。 助涨助跌性和支撑压力性。当价格突破了MA时，无论是向上突破还是向下突破，价格都有继续沿着该方向继续的惯性，这就是MA的助涨助跌性。浙使得MA具有了一定的支撑线和压力线的特性。MA被突破，也可以认为支撑性和压力线被突破。 MA的应用 使用MA的经典方法时格兰维尔（Granville）法则，
-买入信号
-平均线从下降开始走平，价格从下向上穿过平均线； 价格连续上升远离平均线，突然下降，但在平均线附近再度上升； 价格跌破平均线并连续暴跌。（个人不同意这一点，可以更多考虑乖离率指标） 卖出信号
-平均线从上升开始走平，价格从上向下穿过平均线； 价格连续下降远离平均线，突然上升，但在平均线附近再度下跌； 价格上穿平均线并连续暴涨。（这一点很难同意，可以更多考虑乖离率指标） 值得注意的是，在趋势形成后的中途修正阶段或局部反弹和回档，MA的信号出现的很频繁，会发生很多错误的信号。
-平滑异同移动平均线 MACD(Moving Average Convergence and Divergence) MACD (Moving Average Converagence and Divergence) 平滑异同移动平均线 DIF (Difference) 正负差 DEA (Difference exponential average) 异同平均数 EMA (Exponential Moving Average) 指数移动平均线 MACD 的计算 MACD的计算比较复杂，它是由DIF和DEA两部分组成，DIF是核心，DEA是辅助。但是MIF和DEA的计算都依赖于EMA.
-EMA是 Exponential Moving Average 的缩写，称作指数移动平均线。
-EMA公式如下：
-$$ EMA(P_{close}, N){today} = a \times P{close} + (1 - a) \times EMA_{yesterday} $$</description></item><item><title>债券</title><link>https://javioustlj.github.io/finance-note/docs/securities/bond/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/securities/bond/</guid><description>1. 债券的概念 债券（bond）是一种金融契约，是政府、金融机构、工商企业等机构在直接向社会借债筹措资金时，向投资者发行的，同时承诺按一定利率支付利息并按约定条件偿还本金的债权债务凭证。
-债券购买者（投资者）与发行人之间是一种债权债务关系，债券发行人就是债务人，投资者就是债权人。
-债券的本质是债的证明书，具有法律效力。
-2. 债券的基本要素 债券尽管种类多种多样，但在内容上都要包含一些基本要素。这些要素是指发行的债券上必须要载明的基本内容，这是明确债权人和债务人权利与义务的主要约定。
-债券面值。债券面值是指债券的票面价值，是发行人对债券持有人在债券到期后应偿还的本金数额，也是发行人向债券持有人按期支付利息的计算依据。债券面值与债券实际的发行价格并不一定是一致的，发行价格大于面值成为溢价发行，小于面值成为折价发行。在中国，债券面值通常是100元人民币。 票面利率。债券的票面利率是指债券利息与债券面值的比率，是发行人承诺以后一定时期支付给债券持有人报酬的计算标准。债券票面利率的确定受到很多因素的影响，比如银行利率、发行者的资信状况、偿还期限、市场上资金是否充足等。 付息期。债券的付息期是指发行人在发行债券后的利息支付时间。它可以是到期一次支付，或一年、半年、每季度支付一次。如果考虑货币时间价值和通货膨胀因素，那么付息期对债券投资者的实际收益有很大影响。 偿还期。债券的偿还期是指债券上载明的偿还债券本金的期限。 3. 债券的特征 偿还行。还本付息。 流通性。大多数债券可以在流通市场上自由转让。 安全性。在发行者不破产的情况下，债券具有固定的利率，收益比较稳定。在企业破产时，相对于股票持有者，债券持有者享有对企业剩余资产的优先索取权。 收益性。其一是利息收入；其二是债券价格变动带来的差额。 4. 债券的分类 4.1. 根据是否约定利息划分 零息债券。未约定支付利息，一般低于面值发行。 付息债权。按照付息期支付利息。 息票累计债券。债券到期一次性归还本息，期间不支付利息。 4.2. 根据债券券面形态划分 实物债券。它是具有标准格式实物券面的债券。在其券面上，一般印制了债券面额、债券利率、债券期限、债券发行人全称、还本付息方式等各种债券票面要素，不记名、不挂失，可上市流通。 凭证式债券。债权人认购债券的收款凭证，而不是债券发行人制定的标准格式债券。 国家储蓄债 &amp;ndash; 凭证式国债收款凭证。可记名、挂失，不可上市流通。持有期提前支取，按持有天数支付利息。 记账式债券。无实物形态的票券，利用账户通过计算机系统完成债券发行、交易及对付的全过程，我国从1994年开始发行。记账式债券可记名、挂失，可上市流通，安全性好。 4.3. 根据发行主体划分 政府债券（国债），是国家为筹集资金而向投资者出具的、承诺在一定时期支付利息和到期偿还本金的债务凭证。由于它的发行主体是国家，所以具有最高的信用度，被公认为最安全的投资工具。 金融债券，是银行等金融机构作为筹资主体为筹措资金而向投资者发行的一种有价证券。 公司债券，是由公司依照法定程序发行的、约定在一定期限还本付息的有价证券。 4.4. 根据是否由财产担保划分 抵押债券，是以企业财产作为担保的债券，按抵押品的不同又可以分为一般抵押债券、不动产抵押债券、动产抵押债券和证券信用抵押债券。抵押债券可以分为封闭式和开放式两种。“封闭式”公司债券的发行额会受到限制，即不能超过其抵押资产的价值；“开放式”公司债券的发行额不受限制。抵押债券的价值取决于担保资产的价值。抵押品的价值一般超过它所提供担保债券价值的 $ 25% ~ 30% $ 信用债券，是不以任何公司财产作为担保、完全凭信用发行的债券。其持有人只对公司的非抵押资产具有追索权，企业的盈利能力是这些债券投资人的主要担保。因为信用债券没有财产担保，所以在债券契约中都要加入保护性条款，如不能将资产抵押给其他债权人、不能兼并其他企业、未经债权人同意不能出售资产、不能发行其他长期债券等。 4.5. 根据是否能转换为公司股票划分 可转换债券，是指在特定时期内可以按其某一固定的比例转换成普通股的债券。 不可转换债券，即普通债券，不能转换为普通股的债券。 4.6. 根据利率是否固定划分 固定利率债券，利率不随市场利率的变化而调整。固定利率债券可以用于地址通货紧缩。 浮动利率债券，是指债券利率随市场利率变动而调整的债券。浮动利率债券的利率同当前市场利率挂钩，当前市场利率会考虑通货膨胀率的影响，浮动利率债券可以较好地抵制通货膨胀风险。 4.7. 根据是否能够提前偿还划分 可赎回债券，是指在债券到期前，发行人可以按实现约定的赎回价格收回的债券。 不可赎回债券，是指不能在债券到期前收回的债券。 4.8. 根据偿还方式不同划分 一次到期债权，是发行公司于债券到期日一次偿还全部债券本金的债券。 分期到期债券，是指在债券发行的当时就规定有不同到期日的债券，即分批偿还本金的债券。 5. 债券的收益率的计算 人们在做投资时，收益率是需要最关心的一个指标。但收益通常需要考虑货币的时间价值。
-如果给你一个选择，今天给你100元或者1年后给你100元，正常人都会毫不犹豫的选择今天的100元。这实际上就是货币的时间价值。
-如何来准确地计算出货币的时间价值？这需要借助两组概念：终值与现值，单利与复利。
-终值是指现在的资金在未来某个时刻的价值。
-现值是指未来某个时刻的资金在现在的价值。</description></item><item><title>MACD</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/macd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/macd/</guid><description>平滑异同移动平均线 MACD(Moving Average Convergence and Divergence) MACD (Moving Average Converagence and Divergence) 平滑异同移动平均线 DIF (Difference) 正负差 DEA (Difference exponential average) 异同平均数 EMA (Exponential Moving Average) 指数移动平均线 MACD 的计算 MACD的计算比较复杂，它是由DIF和DEA两部分组成，DIF是核心，DEA是辅助。但是MIF和DEA的计算都依赖于EMA.
-EMA是 Exponential Moving Average 的缩写，称作指数移动平均线。
-EMA公式如下：
-$$ EMA(P_{close}, N){today} = a \times P{close} + (1 - a) \times EMA_{yesterday} $$
-其中 $a = \frac{2}{N+1}$,
-设$P_i$ 为每日收盘价，其中 $i = 1, 2, \cdots n$， 默认 $EMA(1) = P_1$
-$$ \begin{align} EMA(1) &amp;amp;= P_1 \notag \\ EMA(2) &amp;amp;= aP_2 + （1-a)P_1 \notag \\ EMA(3) &amp;amp;= aP_3 + a(1-a)P_2 + (1-a)^2P_1 \notag \\ \cdots \notag \\ EMA(n) &amp;amp;= aP_n + a(1-a)P_{n-1} + a(1-a)^2P_{n-2} + \cdots + a(1-a)^{n-2}P_2 + (1-a)^{n-1}P_1 \notag \end{align} $$</description></item><item><title>证券市场</title><link>https://javioustlj.github.io/finance-note/docs/securities/market/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/securities/market/</guid><description>证券交易所 上海证券交易所 深圳证券交易所 北京证券交易所 A股 股票代码分配规则 板块 代码特征 上海主板 600、601、603、605 开头 深圳主板 000、001、002、003 开头 创业板 300、301 开头 科创板 688 开头 北交所及新三板 43、83、87、88 开头 主板 主板又称为一板市场或一级市场，是指传统意义上的证券市场，是一个国家或地区证券发行、上市及交易的紧要场所。
-因为是第一批出现的上市公司向大众融资的市场，大家知道，凡事都有第一次，主板其实就是个试验工具，因为当时是新中国第一次搞资本市场，全国只有两个板，一是上海主板二是深圳主板。
-而当时被试验上市的公司基本都是国企央企或一些明显的龙头公司，因为这些权重大的股票云集，所以沪深两市第一次搞的这个投融资平台便真正成了全国资本市场的主板。
-创业板 创业板市场，也可称为二板市场，第二交易系统。它是指交易所主板市场以外的另一个证券市场。
-顾名思义，着眼于创业，是为了适应自主创新企业及其他成长型创业企业发展需要而设立的市场。 我国创业板股票在是深圳争取按交易所上市并交易，上市门槛比主板低，成长性和风险均要高于主板。
-科创板 科创板即科技创新板，在上海证券交易所上市并交易，主要服务于符合国家战略、突破关键核心技术、市场认可度高的科技创新企业。
-科创板独立于主板和创业板，风险更大，准入门槛更高。
-新三板 新三板是指全国中小企业股份转让系统，挂牌企业不同于原转让系统内的退市企业及原STAQ、NET系统（老三板）挂牌公司，故形象地称为“新三板”。
-新三板交易门槛更高，普通散户交易者一般没有权限。
-北京证券交易所2022年成立，可以交易挂牌地新三板的股票。
-老三板 中小板 个人交易者 个人交易者一般可以交易 主板 创业板和科创板的股票。北京证券交易所成立后，也可交易新三板的股票。</description></item><item><title>BIAS</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/bias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/bias/</guid><description>乖离率 BIAS (Bias Ratio) 乖离率是什么？ 乖离率的英文是BIAS。
-bias 是一个单词 其英文释义是：
-the fact that the results of research of an experiment are not accurate because a particular factor has not been considered when collecting the information.
-bias 在数学或统计学中也可翻译为偏差。
-在对bias这个单词的意义了解之后，我们可能对乖离率这个技术指标的意义有了大致的猜测。
-通俗的讲，乖离率（BIAS）指标就是反应当前价格偏离移动平均线（MA）的程度。
-乖离率指标建立在移动平均的基础上，是由移动平均演变出来的一种技术指标，它通过研判股价在运作过程中与移动均线的分离、聚合程度来指导买卖操作。
-乖离率的计算 乖离率反应的是价格与价格平均的偏离程度，其计算公式如下：
-$$ BIAS(n) = \frac{P_{close} - MA(n)}{MA(n)} \times 100 $$
-式中，$P_{close}$为收盘价；$MA(n)$为参数$n$天的移动平均；
-乖离率的参数是移动平均线的参数$n$。$n$首先影响$MA$，然后影响$BIAS$。一般来说，$n$选的越大，允许价格远离MA的程度越大。
-乖离率的应用 第一，考虑BIAS的取值大小。这是产生BIAS的最初的想法，只要BIAS超过某个数值，就应该感到危险（机会）而考虑抛出（买入）。问题的关键在于如何找到这个分界线。
-分界线的选择与两个因素有关：首先，BIAS的参数n天的大小。n越大，分界线相应的也应该越高。其次，具体证券在市场中的活跃程度。证券越活跃，分界线越高。
-第二，考虑BIAS与价格的背离。BIAS形成从上到下的两个或多个下降的峰，而此时价格还在继续上升，是抛出的信号。BIAS形成从下到上的两个或多个上升的谷，而此时价格还在继续下跌，是买入的信号。</description></item><item><title>特朗普全球关税政策机会</title><link>https://javioustlj.github.io/finance-note/blog/2025/04/05/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%9C%BA%E4%BC%9A/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2025/04/05/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%9C%BA%E4%BC%9A/</guid><description>全球股市大跌，金银铜等金属也是大跌。
-北京时间4月3日凌晨4点，特朗普宣布了对等关税计划。英国10%，巴西10%，澳大利亚10%，菲律宾和以色列17%，欧盟20%，日本24%，韩国25%，印度26%，南非30%，瑞士31%，印度尼西亚32%，斯里兰卡44%，越南46%，柬埔寨49%……
-4月3日白天，美股休市，A股下跌。晚上，美股大跌有5%。
-4月4日，A股休市，晚上美股又大跌。
-白银在此期间，下跌了有12%左右，以此换算，在周一可能会跌停。
-A股在周一必定会受到影响大跌。
-白银如何操作：
-周一以跌停价卖空白银。</description></item><item><title>中英对照</title><link>https://javioustlj.github.io/finance-note/blog/2025/02/16/%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2025/02/16/%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7/</guid><description> 英文 中文 bond 债券 stock 股票 currency 货币 deposit 存款</description></item><item><title>股票基金账户</title><link>https://javioustlj.github.io/finance-note/blog/2025/02/11/%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91%E8%B4%A6%E6%88%B7/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2025/02/11/%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91%E8%B4%A6%E6%88%B7/</guid><description>在买卖股票、基金的时候，我们首先需要开通相应的账户，才能进行买卖。
-我们可能会接触到各种各样的术语：一码通、股东号、资金号、封闭式基金账号、开放式基金帐号等。
-今天我们来梳理一下，我们都会用到哪些常用的账号
-1. 一码通 一码通是中国证券登记结算有限责任公司 为投资者配发的“一套账户”系统，堪称证券市场的“总账户”。
-每个投资者在整个证券市场有且仅有一个一码通账户 ，投资者在证券市场的其他交易账户，都可以通过一码通账户查询。
-这个一码通账户，就类似于我们的身份证，是我们的一个身份的认证。
-通常我们是不需要关注自己的一码通账号的，因为它不直接的股票买卖、基金买卖。
-我们可以通过很多方式查询自己的一码通账号：
-通过中证登官网 查询：登录中国证券登记结算有限责任公司的官方网站，注册成功后，登录并点击【已关联账户数/总账户数】或者【我的一码通】查询自己名下的证券账户信息。 通过中证登APP查询：下载中国结算app，进行注册登录查询一码通下的所有证券账户信息。 通过证券公司查询：可以登录证券公司的交易软件，通常在“账户管理”等相关模块中查找一码通账号信息；也可以拨打证券公司客服电话或前往营业部柜台，提供身份证等证件信息进行查询。 2. A股账户 股东号由证券登记结算机构为投资者设立。股东号用于准确记载投资者所持证券的种类、名称、数量以及相应权益和变动情况，是认定股东身份的重要凭证。可以说，没有股东号，投资者就无法在证券市场合法地进行证券交易，它是参与证券交易的先决条件。
-人民币普通股东帐户就是A股账户，我们普通人的账户都是属于自然人证券账户，上海为A开字头加九位数字，深圳以0开头的十位数字。
-目前规定每个自然人可以分别开立三个沪市A股帐户，三个深市A股帐户。
-A股帐户可以买卖沪深市场A股主板股票、场内基金、可转债、国债、企业债、逆回购，可以申购新股、新可转债，可以可转债转股。
-满足一定条件后，A股帐户还可以开通创业板(10万)、科创板(50万)、融资融券(50万)、港股通(50万)、期权(50万)、新三板(100万,150万,200万)、私募基金(300万)、债券合格投资者(500万)等权限。
-3. 券商账户 普通投资者并不能直接通过A股账户来进行证券交易。
-普通投资者需要在券商处开通券商的账号，来把自己的A股账号和某一家的券商账号绑定才能进行证券交易。券商其实就是一个代理商。投资者将自己的买卖委托单，发给券商，由券商来上报给交易所，交易所来促成交易。
-投资者在一家券商开户的时候，会开通这家券商的账号，也称为资金账户。一般情况下，券商会自动帮助投资者开通A股账户。
-券商账户一般会绑定一家银行，可以将银行的资金转入券商的账户，这就是银证转账了。然后就可以用券商账户的资金进行证券交易了。
-资金账号，它就像投资者在股票交易中的“钱包”，主要用于股票交易中资金的流转和结算。当你买入股票时，资金会从这个账户中扣除；而卖出股票后，收益则会转入该账户。资金号与具体的券商紧密相关，不同券商为投资者分配的资金号是不同的。
-这里要特别提到，调佣调的就是资金账号对应的佣金 。佣金是投资者在进行股票交易时，券商收取的手续费。不同券商、不同资金账号可能对应不同的佣金比例。投资者与券商协商调整佣金，就是针对特定的资金账号进行设置。通过调整佣金，能直接影响投资者的交易成本，所以在选择券商和协商佣金时，务必关注资金账号对应的佣金情况。
-4. 基金账户 4.1. 场内基金账户 场内基金账户，也称为封闭式基金账户。场内就是股票市场，也就是说二级市场，场内基金就是在交易所上市交易的基金，比如封闭式基金和ETF基金、LOF基金。
-场内基金帐户（上海为F开头加九位数字，深圳以0开头的十位数字）。
-目前规定，和A股账户一样，每个自然人可以分别开立三个沪市场内基金帐户，三个深市场内基金帐户。深市的封闭式基金账号可以下挂多家券商；沪市的封闭式基金账户只能绑定一家券商。
-场内基金帐户具有以上除买卖股票以外的其它操作功能。
-其实通常普通投资者没有必要开通此类账户，因为此类账户主要是在场内交易基金，而A股账户已经具备场内基金交易功能了。
-目前，有两类需求可以开通场内基金账户。一是不需要交易股票，仅交易基金，一般是证券从业人员。二是为了基金套利，帐户申购基金套利具有限额,需要尽可能多开能交易基金的账户。
-4.2. 场外基金账户 场外基金就是除了股票市场以外，可以通过银行、券商、天天基金等第三方基金平台代销和基金公司直销的基金。
-4.3. TA账户 TA英文是Transfer Agent（过户代理），直译就是过户登记的意思。TA基金账户可通过基金代理机构开立，是注册与过户登记机构为投资者开立的用于记录投资者持有基金份额及其变动情况的账户。
-TA账包括中登TA账户和基金公司TA账户，中登TA账户包括98（深）和99（沪），在开户后可开通，属于开放式基金账户，购买的基金场内场外都有。
-TA账户只能购买挂在98、99下的基金，基金公司可自己开TA账户，属于场外。
-4.3.1. 中登TA账户 99F开头加九位数字…………（沪市） 98开头加十位数字 …………（深市）
-主要使用如下：
-用于登记个人在所有不同基金公司旗下的场外交易“开放式基金”和“封闭基金”的种类、数量及变化情况的账户号。在“沪市”上市的基金登记在以“99F”开头的个人账户号下，而在“深市”上市的基金则登记在以“98”开头的个人账户号下。 基金场外转场内或者场内转场外。需要先建立场内交易帐户和TA帐户的关联关系，然后才能操作转入转出。 跨系统转托管(就是将基金持仓在不同代理机构之间划转)必须提供这个TA账户号，而且要将此与劵商建立对应关系，才能实现跨系统转托管。转场时还需由代理机构提供该只基金在该机构对应的“席位号”。同一只基金在不同的机构其席位号不同。 4.3.2. 基金公司TA系统账户号 不同的基金公司此账户号各不相同。这个账户号是用于登记个人持有的该公司旗下的基金种类、数量及变化情况。是基金公司自己的登记系统。个人不论在什么渠道购买，只要属于该公司的基金，都会在该公司个人账户下有登记记录。
-4.4. 基金交易账户号 在各个不同渠道购买基金会有不同的交易账户号。如：在银行、券商、支付宝、微信理财通、天天基金等渠道代销和基金公司直销（官网、APP、微信公众号）会有各自不同的交易账户号。这个是用于登记记录在该销售平台的基金种类、数量及变化情况的。
-这三类账户号之间的联系：不论是在什么平台销售的基金，需要基金交易帐户号登录操作；其对应的基金种类、数量及变化情况都会在该基金公司TA系统有登记记录；而中登TA账户号又与各基金公司账户号相互联系，是投资者场外基金的总帐户。
-4.5. 名词解释 1、场内与场外</description></item><item><title>Awesome Quant</title><link>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</guid><description>Github repo Awesome systematic trading 博客 FunCoder 知乎 用户：
-泛程序员 optMaster 问题：
-量化交易框架vnpy vs backtrader，请大神点评各自优缺点，尤其在数字货币领域？ 150 Most Frequently Asked Questions on Quant Interviews A Practical Guide to Quantitative Finance Interviews Quant Job Interview Questions And Answers
-现代投资组合理论与投资分析 作者埃尔顿、格鲁伯、布朗和戈茨曼
-证书 CQF 国际量化金融分析师 CPA 中国注册会计师 CICPA CFA 特许金融分析师 ACCA 英国特许公认会计师公会 书籍 入门
-Algorithmic Trading: Winning Strategies and Their Rationale Quantitative Trading: How to Build Your Own Algorithmic Trading Business 进阶
-Systematic Trading: Aunique new method for designing trading and investing systems Smart Portfolio: A practical guide to building and maintaining investment portfolios Python 实践 Python for Algorithmic Trading: From Idea to Cloud Deployment 一些概念性的知识</description></item><item><title>Search Results</title><link>https://javioustlj.github.io/finance-note/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/search/</guid><description/></item><item><title>关于投资集思录</title><link>https://javioustlj.github.io/finance-note/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/about/</guid><description>关于投资集思录 投资集思录 投资集思录 - 做一个有思考的投资者！
-投资集思录 投资集思录是我个人的投资思考的记录和总结。
-一方面是可以将自己的思考记录下来；另一方面也希望对有缘的投资者有所帮助。
-投资集思录 错过了中国楼市的疯狂发展，希望不要再错过中国股市的发展了！
-从2021年4月份开通了股票账户，同年7月份开通了期货账户，从此踏上了证券投资的路途。
-我坚信“投资”是一条通往财富自由之路。在这里记录着投资路上的点点滴滴。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>投资集思录</title><link>https://javioustlj.github.io/finance-note/</link><description>Recent content on 投资集思录</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://javioustlj.github.io/finance-note/index.xml" rel="self" type="application/rss+xml"/><item><title>技术指标</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/jishuzhibiao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/jishuzhibiao/</guid><description>&lt;p&gt;技术指标是技术分析重要的组成部分，全世界有千种以上的各种各样的技术指标。&lt;/p&gt;
+&lt;h2 id="技术指标的概述"&gt;技术指标的概述&lt;/h2&gt;
+&lt;h2 id="技术指标的本质"&gt;技术指标的本质&lt;/h2&gt;
+&lt;p&gt;按照一定的数学方法对证券相关数据进行处理，数据经过处理可以得到更有用直观的数值，这就是技术指标。&lt;/p&gt;
+&lt;p&gt;处理数据的数学方法是多种多样的，这也就产生了多种多样的技术指标。梅贻泓技术指标都是以一个特定的方式对市场进行观察，反映市场某一方面的内涵，仅仅通过原始数据是很难看出这些内涵。技术指标将某些对市场的定性认识进行定量分析，可以使具体操作的精确度提高。&lt;/p&gt;
+&lt;h2 id="如何使用技术指标"&gt;如何使用技术指标?&lt;/h2&gt;
+&lt;p&gt;可以从以下六个方面考虑应用指标：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;背离。背离是指指标的走向与价格走向不一致，这有可能是指标提前于价格的反应。&lt;/li&gt;
+&lt;li&gt;交叉。交叉是指标曲线图中的两条线发生了交叉现象，金叉和死叉就属于这类情况。&lt;/li&gt;
+&lt;li&gt;极端值。极值是指标的数值达到了一个极高或基地的位置，即将发生转折，是判断超卖，超买的重要参考。&lt;/li&gt;
+&lt;li&gt;形态。这是指指标曲线呈现出某种有规律的形态，可以根据规律做出判断。&lt;/li&gt;
+&lt;li&gt;转折。这是指指标的曲线发生了掉头，通常来说价格也可能发生了掉头，是非常值得注意的时刻。&lt;/li&gt;
+&lt;li&gt;趋势。这是指指标曲线波动的方向，是向上还是向下。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="技术指标应注意的问题"&gt;技术指标应注意的问题&lt;/h3&gt;
+&lt;p&gt;技术指标只是观察市场描述市场的一种工具，每种工具都有自己的适用范围和使用环境。使用技术指标最忌讳机械地照搬理论，忽略这些结论成立的条件。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不能盲目地绝对相信技术指标。技术指标有一定的局限性。因为技术指标是对过去的证券数据进行分析，而将来是不可能被100%预测的。&lt;/li&gt;
+&lt;li&gt;不能认为技术指标甚至技术分析毫无作用。技术分析有点统计学的味道，尽管我不能准确预测明天的市场，但是能大概率反应明天市场的情况。&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>MA</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/ma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/ma/</guid><description>&lt;h2 id="移动平均线--ma-moving-average"&gt;移动平均线 MA (Moving Average)&lt;/h2&gt;
+&lt;h3 id="ma的计算"&gt;MA的计算&lt;/h3&gt;
+&lt;p&gt;$$
+MA(n) = \frac{n天的价格相加}{n}
+$$&lt;/p&gt;
+&lt;p&gt;MA就是连续若干天的价格的算数平均。天数通常选为5日（一周），10日（两周），20日（一月），60日（三月），120日（半年），250日（一年）等&lt;/p&gt;
+&lt;h3 id="ma的特性和作用"&gt;MA的特性和作用&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;追踪趋势。MA能够表示价格的趋势，不受小的反向波动影响，并追随这个趋势。原始数据得到的价格图标不是很容易看出这个趋势。&lt;/li&gt;
+&lt;li&gt;滞后性和稳定性。由于MA是由多天的价格的平均，所以一天的变动对MA的影响就没那么大，所以MA的值相对证券价格来说比较稳定不会被暂时的小的波动所迷惑，但同时，它反应趋势变化也会滞后于趋势本身。&lt;/li&gt;
+&lt;li&gt;助涨助跌性和支撑压力性。当价格突破了MA时，无论是向上突破还是向下突破，价格都有继续沿着该方向继续的惯性，这就是MA的助涨助跌性。浙使得MA具有了一定的支撑线和压力线的特性。MA被突破，也可以认为支撑性和压力线被突破。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="ma的应用"&gt;MA的应用&lt;/h3&gt;
+&lt;p&gt;使用MA的经典方法时格兰维尔（Granville）法则，&lt;/p&gt;
+&lt;p&gt;买入信号&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;平均线从下降开始走平，价格从下向上穿过平均线；&lt;/li&gt;
+&lt;li&gt;价格连续上升远离平均线，突然下降，但在平均线附近再度上升；&lt;/li&gt;
+&lt;li&gt;价格跌破平均线并连续暴跌。（个人不同意这一点，可以更多考虑乖离率指标）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;卖出信号&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;平均线从上升开始走平，价格从上向下穿过平均线；&lt;/li&gt;
+&lt;li&gt;价格连续下降远离平均线，突然上升，但在平均线附近再度下跌；&lt;/li&gt;
+&lt;li&gt;价格上穿平均线并连续暴涨。（这一点很难同意，可以更多考虑乖离率指标）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;值得注意的是，在趋势形成后的中途修正阶段或局部反弹和回档，MA的信号出现的很频繁，会发生很多错误的信号。&lt;/p&gt;
+&lt;h2 id="平滑异同移动平均线-macdmoving-average-convergence-and-divergence"&gt;平滑异同移动平均线 MACD(Moving Average Convergence and Divergence)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MACD (Moving Average Converagence and Divergence) 平滑异同移动平均线&lt;/li&gt;
+&lt;li&gt;DIF (Difference) 正负差&lt;/li&gt;
+&lt;li&gt;DEA (Difference exponential average) 异同平均数&lt;/li&gt;
+&lt;li&gt;EMA (Exponential Moving Average) 指数移动平均线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="macd-的计算"&gt;MACD 的计算&lt;/h2&gt;
+&lt;p&gt;MACD的计算比较复杂，它是由DIF和DEA两部分组成，DIF是核心，DEA是辅助。但是MIF和DEA的计算都依赖于EMA.&lt;/p&gt;
+&lt;p&gt;EMA是 Exponential Moving Average 的缩写，称作指数移动平均线。&lt;/p&gt;
+&lt;p&gt;EMA公式如下：&lt;/p&gt;
+&lt;p&gt;$$
+EMA(P_{close}, N)&lt;em&gt;{today} = a \times P&lt;/em&gt;{close} + (1 - a) \times EMA_{yesterday}
+$$&lt;/p&gt;</description></item><item><title>债券</title><link>https://javioustlj.github.io/finance-note/docs/securities/bond/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/securities/bond/</guid><description>&lt;h2 id="1-债券的概念"&gt;1. 债券的概念&lt;/h2&gt;
+&lt;p&gt;债券（bond）是一种金融契约，是政府、金融机构、工商企业等机构在直接向社会借债筹措资金时，向投资者发行的，同时承诺按一定利率支付利息并按约定条件偿还本金的债权债务凭证。&lt;/p&gt;
+&lt;p&gt;债券购买者（投资者）与发行人之间是一种债权债务关系，债券发行人就是债务人，投资者就是债权人。&lt;/p&gt;
+&lt;p&gt;债券的本质是债的证明书，具有法律效力。&lt;/p&gt;
+&lt;h2 id="2-债券的基本要素"&gt;2. 债券的基本要素&lt;/h2&gt;
+&lt;p&gt;债券尽管种类多种多样，但在内容上都要包含一些基本要素。这些要素是指发行的债券上必须要载明的基本内容，这是明确债权人和债务人权利与义务的主要约定。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;债券面值。债券面值是指债券的票面价值，是发行人对债券持有人在债券到期后应偿还的本金数额，也是发行人向债券持有人按期支付利息的计算依据。债券面值与债券实际的发行价格并不一定是一致的，发行价格大于面值成为溢价发行，小于面值成为折价发行。在中国，债券面值通常是100元人民币。&lt;/li&gt;
+&lt;li&gt;票面利率。债券的票面利率是指债券利息与债券面值的比率，是发行人承诺以后一定时期支付给债券持有人报酬的计算标准。债券票面利率的确定受到很多因素的影响，比如银行利率、发行者的资信状况、偿还期限、市场上资金是否充足等。&lt;/li&gt;
+&lt;li&gt;付息期。债券的付息期是指发行人在发行债券后的利息支付时间。它可以是到期一次支付，或一年、半年、每季度支付一次。如果考虑货币时间价值和通货膨胀因素，那么付息期对债券投资者的实际收益有很大影响。&lt;/li&gt;
+&lt;li&gt;偿还期。债券的偿还期是指债券上载明的偿还债券本金的期限。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="3-债券的特征"&gt;3. 债券的特征&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;偿还行。还本付息。&lt;/li&gt;
+&lt;li&gt;流通性。大多数债券可以在流通市场上自由转让。&lt;/li&gt;
+&lt;li&gt;安全性。在发行者不破产的情况下，债券具有固定的利率，收益比较稳定。在企业破产时，相对于股票持有者，债券持有者享有对企业剩余资产的优先索取权。&lt;/li&gt;
+&lt;li&gt;收益性。其一是利息收入；其二是债券价格变动带来的差额。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="4-债券的分类"&gt;4. 债券的分类&lt;/h2&gt;
+&lt;h3 id="41-根据是否约定利息划分"&gt;4.1. 根据是否约定利息划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;零息债券。未约定支付利息，一般低于面值发行。&lt;/li&gt;
+&lt;li&gt;付息债权。按照付息期支付利息。&lt;/li&gt;
+&lt;li&gt;息票累计债券。债券到期一次性归还本息，期间不支付利息。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="42-根据债券券面形态划分"&gt;4.2. 根据债券券面形态划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;实物债券。它是具有标准格式实物券面的债券。在其券面上，一般印制了债券面额、债券利率、债券期限、债券发行人全称、还本付息方式等各种债券票面要素，不记名、不挂失，可上市流通。&lt;/li&gt;
+&lt;li&gt;凭证式债券。债权人认购债券的收款凭证，而不是债券发行人制定的标准格式债券。&lt;/li&gt;
+&lt;li&gt;国家储蓄债 &amp;ndash; 凭证式国债收款凭证。可记名、挂失，不可上市流通。持有期提前支取，按持有天数支付利息。&lt;/li&gt;
+&lt;li&gt;记账式债券。无实物形态的票券，利用账户通过计算机系统完成债券发行、交易及对付的全过程，我国从1994年开始发行。记账式债券可记名、挂失，可上市流通，安全性好。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="43-根据发行主体划分"&gt;4.3. 根据发行主体划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;政府债券（国债），是国家为筹集资金而向投资者出具的、承诺在一定时期支付利息和到期偿还本金的债务凭证。由于它的发行主体是国家，所以具有最高的信用度，被公认为最安全的投资工具。&lt;/li&gt;
+&lt;li&gt;金融债券，是银行等金融机构作为筹资主体为筹措资金而向投资者发行的一种有价证券。&lt;/li&gt;
+&lt;li&gt;公司债券，是由公司依照法定程序发行的、约定在一定期限还本付息的有价证券。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="44-根据是否由财产担保划分"&gt;4.4. 根据是否由财产担保划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;抵押债券，是以企业财产作为担保的债券，按抵押品的不同又可以分为一般抵押债券、不动产抵押债券、动产抵押债券和证券信用抵押债券。抵押债券可以分为封闭式和开放式两种。“封闭式”公司债券的发行额会受到限制，即不能超过其抵押资产的价值；“开放式”公司债券的发行额不受限制。抵押债券的价值取决于担保资产的价值。抵押品的价值一般超过它所提供担保债券价值的 $ 25% ~ 30% $&lt;/li&gt;
+&lt;li&gt;信用债券，是不以任何公司财产作为担保、完全凭信用发行的债券。其持有人只对公司的非抵押资产具有追索权，企业的盈利能力是这些债券投资人的主要担保。因为信用债券没有财产担保，所以在债券契约中都要加入保护性条款，如不能将资产抵押给其他债权人、不能兼并其他企业、未经债权人同意不能出售资产、不能发行其他长期债券等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="45-根据是否能转换为公司股票划分"&gt;4.5. 根据是否能转换为公司股票划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;可转换债券，是指在特定时期内可以按其某一固定的比例转换成普通股的债券。&lt;/li&gt;
+&lt;li&gt;不可转换债券，即普通债券，不能转换为普通股的债券。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="46-根据利率是否固定划分"&gt;4.6. 根据利率是否固定划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;固定利率债券，利率不随市场利率的变化而调整。固定利率债券可以用于地址通货紧缩。&lt;/li&gt;
+&lt;li&gt;浮动利率债券，是指债券利率随市场利率变动而调整的债券。浮动利率债券的利率同当前市场利率挂钩，当前市场利率会考虑通货膨胀率的影响，浮动利率债券可以较好地抵制通货膨胀风险。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="47-根据是否能够提前偿还划分"&gt;4.7. 根据是否能够提前偿还划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;可赎回债券，是指在债券到期前，发行人可以按实现约定的赎回价格收回的债券。&lt;/li&gt;
+&lt;li&gt;不可赎回债券，是指不能在债券到期前收回的债券。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="48-根据偿还方式不同划分"&gt;4.8. 根据偿还方式不同划分&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;一次到期债权，是发行公司于债券到期日一次偿还全部债券本金的债券。&lt;/li&gt;
+&lt;li&gt;分期到期债券，是指在债券发行的当时就规定有不同到期日的债券，即分批偿还本金的债券。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="5-债券的收益率的计算"&gt;5. 债券的收益率的计算&lt;/h2&gt;
+&lt;p&gt;人们在做投资时，收益率是需要最关心的一个指标。但收益通常需要考虑货币的时间价值。&lt;/p&gt;
+&lt;p&gt;如果给你一个选择，今天给你100元或者1年后给你100元，正常人都会毫不犹豫的选择今天的100元。这实际上就是货币的时间价值。&lt;/p&gt;
+&lt;p&gt;如何来准确地计算出货币的时间价值？这需要借助两组概念：终值与现值，单利与复利。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;终值是指现在的资金在未来某个时刻的价值。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现值是指未来某个时刻的资金在现在的价值。&lt;/p&gt;</description></item><item><title>MACD</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/macd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/macd/</guid><description>&lt;h2 id="平滑异同移动平均线-macdmoving-average-convergence-and-divergence"&gt;平滑异同移动平均线 MACD(Moving Average Convergence and Divergence)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MACD (Moving Average Converagence and Divergence) 平滑异同移动平均线&lt;/li&gt;
+&lt;li&gt;DIF (Difference) 正负差&lt;/li&gt;
+&lt;li&gt;DEA (Difference exponential average) 异同平均数&lt;/li&gt;
+&lt;li&gt;EMA (Exponential Moving Average) 指数移动平均线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="macd-的计算"&gt;MACD 的计算&lt;/h3&gt;
+&lt;p&gt;MACD的计算比较复杂，它是由DIF和DEA两部分组成，DIF是核心，DEA是辅助。但是MIF和DEA的计算都依赖于EMA.&lt;/p&gt;
+&lt;p&gt;EMA是 Exponential Moving Average 的缩写，称作指数移动平均线。&lt;/p&gt;
+&lt;p&gt;EMA公式如下：&lt;/p&gt;
+&lt;p&gt;$$
+EMA(P_{close}, N)&lt;em&gt;{today} = a \times P&lt;/em&gt;{close} + (1 - a) \times EMA_{yesterday}
+$$&lt;/p&gt;
+&lt;p&gt;其中 $a = \frac{2}{N+1}$,&lt;/p&gt;
+&lt;p&gt;设$P_i$ 为每日收盘价，其中 $i = 1, 2, \cdots n$， 默认 $EMA(1) = P_1$&lt;/p&gt;
+&lt;p&gt;$$
+\begin{align}
+EMA(1) &amp;amp;= P_1 \notag \\
+EMA(2) &amp;amp;= aP_2 + （1-a)P_1 \notag \\
+EMA(3) &amp;amp;= aP_3 + a(1-a)P_2 + (1-a)^2P_1 \notag \\
+\cdots \notag \\
+EMA(n) &amp;amp;= aP_n + a(1-a)P_{n-1} + a(1-a)^2P_{n-2} + \cdots + a(1-a)^{n-2}P_2 + (1-a)^{n-1}P_1 \notag
+\end{align}
+$$&lt;/p&gt;</description></item><item><title>证券市场</title><link>https://javioustlj.github.io/finance-note/docs/securities/market/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/securities/market/</guid><description>&lt;h2 id="证券交易所"&gt;证券交易所&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.sse.com.cn/"&gt;上海证券交易所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.szse.cn/"&gt;深圳证券交易所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bse.cn/"&gt;北京证券交易所&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="a股-股票代码分配规则"&gt;A股 股票代码分配规则&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: left"&gt;板块&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;代码特征&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;上海主板&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;600、601、603、605 开头&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;深圳主板&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;000、001、002、003 开头&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;创业板&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;300、301 开头&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;科创板&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;688 开头&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;北交所及新三板&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;43、83、87、88 开头&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="主板"&gt;主板&lt;/h2&gt;
+&lt;p&gt;主板又称为一板市场或一级市场，是指传统意义上的证券市场，是一个国家或地区证券发行、上市及交易的紧要场所。&lt;/p&gt;
+&lt;p&gt;因为是第一批出现的上市公司向大众融资的市场，大家知道，凡事都有第一次，主板其实就是个试验工具，因为当时是新中国第一次搞资本市场，全国只有两个板，一是上海主板二是深圳主板。&lt;/p&gt;
+&lt;p&gt;而当时被试验上市的公司基本都是国企央企或一些明显的龙头公司，因为这些权重大的股票云集，所以沪深两市第一次搞的这个投融资平台便真正成了全国资本市场的主板。&lt;/p&gt;
+&lt;h2 id="创业板"&gt;创业板&lt;/h2&gt;
+&lt;p&gt;创业板市场，也可称为二板市场，第二交易系统。它是指交易所主板市场以外的另一个证券市场。&lt;/p&gt;
+&lt;p&gt;顾名思义，着眼于创业，是为了适应自主创新企业及其他成长型创业企业发展需要而设立的市场。
+我国创业板股票在是深圳争取按交易所上市并交易，上市门槛比主板低，成长性和风险均要高于主板。&lt;/p&gt;
+&lt;h2 id="科创板"&gt;科创板&lt;/h2&gt;
+&lt;p&gt;科创板即科技创新板，在上海证券交易所上市并交易，主要服务于符合国家战略、突破关键核心技术、市场认可度高的科技创新企业。&lt;/p&gt;
+&lt;p&gt;科创板独立于主板和创业板，风险更大，准入门槛更高。&lt;/p&gt;
+&lt;h2 id="新三板"&gt;新三板&lt;/h2&gt;
+&lt;p&gt;新三板是指全国中小企业股份转让系统，挂牌企业不同于原转让系统内的退市企业及原STAQ、NET系统（老三板）挂牌公司，故形象地称为“新三板”。&lt;/p&gt;
+&lt;p&gt;新三板交易门槛更高，普通散户交易者一般没有权限。&lt;/p&gt;
+&lt;p&gt;北京证券交易所2022年成立，可以交易挂牌地新三板的股票。&lt;/p&gt;
+&lt;h2 id="老三板"&gt;老三板&lt;/h2&gt;
+&lt;h2 id="中小板"&gt;中小板&lt;/h2&gt;
+&lt;h2 id="个人交易者"&gt;个人交易者&lt;/h2&gt;
+&lt;p&gt;个人交易者一般可以交易 主板 创业板和科创板的股票。北京证券交易所成立后，也可交易新三板的股票。&lt;/p&gt;</description></item><item><title>BIAS</title><link>https://javioustlj.github.io/finance-note/docs/technicalanalysis/bias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/docs/technicalanalysis/bias/</guid><description>&lt;h2 id="乖离率-bias-bias-ratio"&gt;乖离率 BIAS (Bias Ratio)&lt;/h2&gt;
+&lt;h3 id="乖离率是什么"&gt;乖离率是什么？&lt;/h3&gt;
+&lt;p&gt;乖离率的英文是BIAS。&lt;/p&gt;
+&lt;p&gt;bias 是一个单词 其英文释义是：&lt;/p&gt;
+&lt;p&gt;the fact that the results of research of an experiment are not accurate because a particular factor has not been considered when collecting the information.&lt;/p&gt;
+&lt;p&gt;bias 在数学或统计学中也可翻译为偏差。&lt;/p&gt;
+&lt;p&gt;在对bias这个单词的意义了解之后，我们可能对乖离率这个技术指标的意义有了大致的猜测。&lt;/p&gt;
+&lt;p&gt;通俗的讲，乖离率（BIAS）指标就是反应当前价格偏离移动平均线（MA）的程度。&lt;/p&gt;
+&lt;p&gt;乖离率指标建立在移动平均的基础上，是由移动平均演变出来的一种技术指标，它通过研判股价在运作过程中与移动均线的分离、聚合程度来指导买卖操作。&lt;/p&gt;
+&lt;h3 id="乖离率的计算"&gt;乖离率的计算&lt;/h3&gt;
+&lt;p&gt;乖离率反应的是价格与价格平均的偏离程度，其计算公式如下：&lt;/p&gt;
+&lt;p&gt;$$
+BIAS(n) = \frac{P_{close} - MA(n)}{MA(n)} \times 100
+$$&lt;/p&gt;
+&lt;p&gt;式中，$P_{close}$为收盘价；$MA(n)$为参数$n$天的移动平均；&lt;/p&gt;
+&lt;p&gt;乖离率的参数是移动平均线的参数$n$。$n$首先影响$MA$，然后影响$BIAS$。一般来说，$n$选的越大，允许价格远离MA的程度越大。&lt;/p&gt;
+&lt;h3 id="乖离率的应用"&gt;乖离率的应用&lt;/h3&gt;
+&lt;p&gt;第一，考虑BIAS的取值大小。这是产生BIAS的最初的想法，只要BIAS超过某个数值，就应该感到危险（机会）而考虑抛出（买入）。问题的关键在于如何找到这个分界线。&lt;/p&gt;
+&lt;p&gt;分界线的选择与两个因素有关：首先，BIAS的参数n天的大小。n越大，分界线相应的也应该越高。其次，具体证券在市场中的活跃程度。证券越活跃，分界线越高。&lt;/p&gt;
+&lt;p&gt;第二，考虑BIAS与价格的背离。BIAS形成从上到下的两个或多个下降的峰，而此时价格还在继续上升，是抛出的信号。BIAS形成从下到上的两个或多个上升的谷，而此时价格还在继续下跌，是买入的信号。&lt;/p&gt;</description></item><item><title>特朗普全球关税政策机会</title><link>https://javioustlj.github.io/finance-note/blog/2025/04/05/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%9C%BA%E4%BC%9A/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2025/04/05/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%9C%BA%E4%BC%9A/</guid><description>&lt;p&gt;全球股市大跌，金银铜等金属也是大跌。&lt;/p&gt;
+&lt;p&gt;北京时间4月3日凌晨4点，特朗普宣布了对等关税计划。英国10%，巴西10%，澳大利亚10%，菲律宾和以色列17%，欧盟20%，日本24%，韩国25%，印度26%，南非30%，瑞士31%，印度尼西亚32%，斯里兰卡44%，越南46%，柬埔寨49%……&lt;/p&gt;
+&lt;p&gt;4月3日白天，美股休市，A股下跌。晚上，美股大跌有5%。&lt;/p&gt;
+&lt;p&gt;4月4日，A股休市，晚上美股又大跌。&lt;/p&gt;
+&lt;p&gt;白银在此期间，下跌了有12%左右，以此换算，在周一可能会跌停。&lt;/p&gt;
+&lt;p&gt;A股在周一必定会受到影响大跌。&lt;/p&gt;
+&lt;p&gt;白银如何操作：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;周一以跌停价卖空白银。&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>中英对照</title><link>https://javioustlj.github.io/finance-note/blog/2025/02/16/english/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2025/02/16/english/</guid><description>&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;英文&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;中文&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;bond&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;债券&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;stock&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;股票&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;currency&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;货币&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;deposit&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;存款&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>股票基金账户</title><link>https://javioustlj.github.io/finance-note/blog/2025/02/11/account/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2025/02/11/account/</guid><description>&lt;p&gt;在买卖股票、基金的时候，我们首先需要开通相应的账户，才能进行买卖。&lt;/p&gt;
+&lt;p&gt;我们可能会接触到各种各样的术语：一码通、股东号、资金号、封闭式基金账号、开放式基金帐号等。&lt;/p&gt;
+&lt;p&gt;今天我们来梳理一下，我们都会用到哪些常用的账号&lt;/p&gt;
+&lt;h2 id="1-一码通"&gt;1. 一码通&lt;/h2&gt;
+&lt;p&gt;一码通是&lt;a href="http://www.chinaclear.cn/"&gt;中国证券登记结算有限责任公司&lt;/a&gt; 为投资者配发的“一套账户”系统，堪称证券市场的“总账户”。&lt;/p&gt;
+&lt;p&gt;每个投资者在整个证券市场有且仅有一个一码通账户 ，投资者在证券市场的其他交易账户，都可以通过一码通账户查询。&lt;/p&gt;
+&lt;p&gt;这个一码通账户，就类似于我们的身份证，是我们的一个身份的认证。&lt;/p&gt;
+&lt;p&gt;通常我们是不需要关注自己的一码通账号的，因为它不直接的股票买卖、基金买卖。&lt;/p&gt;
+&lt;p&gt;我们可以通过很多方式查询自己的一码通账号：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;通过&lt;a href="http://www.chinaclear.cn/"&gt;中证登官网&lt;/a&gt; 查询&lt;/strong&gt;：登录中国证券登记结算有限责任公司的官方网站，注册成功后，登录并点击【已关联账户数/总账户数】或者【我的一码通】查询自己名下的证券账户信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;通过中证登APP查询&lt;/strong&gt;：下载中国结算app，进行注册登录查询一码通下的所有证券账户信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;通过证券公司查询&lt;/strong&gt;：可以登录证券公司的交易软件，通常在“账户管理”等相关模块中查找一码通账号信息；也可以拨打证券公司客服电话或前往营业部柜台，提供身份证等证件信息进行查询。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2-a股账户"&gt;2. A股账户&lt;/h2&gt;
+&lt;p&gt;股东号由证券登记结算机构为投资者设立。股东号用于准确记载投资者所持证券的种类、名称、数量以及相应权益和变动情况，是认定股东身份的重要凭证。可以说，没有股东号，投资者就无法在证券市场合法地进行证券交易，它是参与证券交易的先决条件。&lt;/p&gt;
+&lt;p&gt;人民币普通股东帐户就是A股账户，我们普通人的账户都是属于自然人证券账户，上海为A开字头加九位数字，深圳以0开头的十位数字。&lt;/p&gt;
+&lt;p&gt;目前规定每个自然人可以分别开立三个沪市A股帐户，三个深市A股帐户。&lt;/p&gt;
+&lt;p&gt;A股帐户可以买卖沪深市场&lt;strong&gt;A股主板股票&lt;/strong&gt;、&lt;strong&gt;场内基金&lt;/strong&gt;、&lt;strong&gt;可转债&lt;/strong&gt;、&lt;strong&gt;国债&lt;/strong&gt;、&lt;strong&gt;企业债&lt;/strong&gt;、&lt;strong&gt;逆回购&lt;/strong&gt;，可以申购新股、新可转债，可以可转债转股。&lt;/p&gt;
+&lt;p&gt;满足一定条件后，A股帐户还可以开通创业板(10万)、科创板(50万)、融资融券(50万)、港股通(50万)、期权(50万)、新三板(100万,150万,200万)、私募基金(300万)、债券合格投资者(500万)等权限。&lt;/p&gt;
+&lt;h2 id="3-券商账户"&gt;3. 券商账户&lt;/h2&gt;
+&lt;p&gt;普通投资者并不能直接通过A股账户来进行证券交易。&lt;/p&gt;
+&lt;p&gt;普通投资者需要在券商处开通券商的账号，来把自己的A股账号和某一家的券商账号绑定才能进行证券交易。券商其实就是一个代理商。投资者将自己的买卖委托单，发给券商，由券商来上报给交易所，交易所来促成交易。&lt;/p&gt;
+&lt;p&gt;投资者在一家券商开户的时候，会开通这家券商的账号，也称为资金账户。一般情况下，券商会自动帮助投资者开通A股账户。&lt;/p&gt;
+&lt;p&gt;券商账户一般会绑定一家银行，可以将银行的资金转入券商的账户，这就是银证转账了。然后就可以用券商账户的资金进行证券交易了。&lt;/p&gt;
+&lt;p&gt;资金账号，它就像投资者在股票交易中的“钱包”，主要用于股票交易中资金的流转和结算。当你买入股票时，资金会从这个账户中扣除；而卖出股票后，收益则会转入该账户。资金号与具体的券商紧密相关，不同券商为投资者分配的资金号是不同的。&lt;/p&gt;
+&lt;p&gt;这里要特别提到，调佣调的就是资金账号对应的佣金 。佣金是投资者在进行股票交易时，券商收取的手续费。不同券商、不同资金账号可能对应不同的佣金比例。投资者与券商协商调整佣金，就是针对特定的资金账号进行设置。通过调整佣金，能直接影响投资者的交易成本，所以在选择券商和协商佣金时，务必关注资金账号对应的佣金情况。&lt;/p&gt;
+&lt;h2 id="4-基金账户"&gt;4. 基金账户&lt;/h2&gt;
+&lt;h3 id="41-场内基金账户"&gt;4.1. 场内基金账户&lt;/h3&gt;
+&lt;p&gt;场内基金账户，也称为封闭式基金账户。场内就是股票市场，也就是说二级市场，场内基金就是在交易所上市交易的基金，比如封闭式基金和ETF基金、LOF基金。&lt;/p&gt;
+&lt;p&gt;场内基金帐户（上海为F开头加九位数字，深圳以0开头的十位数字）。&lt;/p&gt;
+&lt;p&gt;目前规定，和A股账户一样，每个自然人可以分别开立&lt;strong&gt;三个沪市场内基金帐户&lt;/strong&gt;，&lt;strong&gt;三个深市场内基金帐户&lt;/strong&gt;。深市的封闭式基金账号可以下挂多家券商；沪市的封闭式基金账户只能绑定一家券商。&lt;/p&gt;
+&lt;p&gt;场内基金帐户具有以上&lt;strong&gt;除买卖股票以外&lt;/strong&gt;的其它操作功能。&lt;/p&gt;
+&lt;p&gt;其实通常普通投资者没有必要开通此类账户，因为此类账户主要是在场内交易基金，而A股账户已经具备场内基金交易功能了。&lt;/p&gt;
+&lt;p&gt;目前，有两类需求可以开通场内基金账户。一是不需要交易股票，仅交易基金，一般是证券从业人员。二是为了基金套利，帐户申购基金套利具有限额,需要尽可能多开能交易基金的账户。&lt;/p&gt;
+&lt;h3 id="42-场外基金账户"&gt;4.2. 场外基金账户&lt;/h3&gt;
+&lt;p&gt;场外基金就是除了股票市场以外，可以通过银行、券商、天天基金等第三方基金平台代销和基金公司直销的基金。&lt;/p&gt;
+&lt;h3 id="43-ta账户"&gt;4.3. TA账户&lt;/h3&gt;
+&lt;p&gt;TA英文是Transfer Agent（过户代理），直译就是过户登记的意思。TA基金账户可通过基金代理机构开立，是注册与过户登记机构为投资者开立的用于记录投资者持有基金份额及其变动情况的账户。&lt;/p&gt;
+&lt;p&gt;TA账包括&lt;strong&gt;中登TA账户&lt;/strong&gt;和&lt;strong&gt;基金公司TA账户&lt;/strong&gt;，中登TA账户包括98（深）和99（沪），在开户后可开通，属于开放式基金账户，购买的基金场内场外都有。&lt;/p&gt;
+&lt;p&gt;TA账户只能购买挂在98、99下的基金，基金公司可自己开TA账户，属于场外。&lt;/p&gt;
+&lt;h4 id="431-中登ta账户"&gt;4.3.1. 中登TA账户&lt;/h4&gt;
+&lt;p&gt;99F开头加九位数字…………（沪市）
+98开头加十位数字 …………（深市）&lt;/p&gt;
+&lt;p&gt;主要使用如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用于登记个人在所有不同基金公司旗下的场外交易“开放式基金”和“封闭基金”的种类、数量及变化情况的账户号。在“沪市”上市的基金登记在以“99F”开头的个人账户号下，而在“深市”上市的基金则登记在以“98”开头的个人账户号下。&lt;/li&gt;
+&lt;li&gt;基金场外转场内或者场内转场外。需要先建立场内交易帐户和TA帐户的关联关系，然后才能操作转入转出。&lt;/li&gt;
+&lt;li&gt;跨系统转托管(就是将基金持仓在不同代理机构之间划转)必须提供这个TA账户号，而且要将此与劵商建立对应关系，才能实现跨系统转托管。转场时还需由代理机构提供该只基金在该机构对应的“席位号”。同一只基金在不同的机构其席位号不同。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id="432-基金公司ta系统账户号"&gt;4.3.2. 基金公司TA系统账户号&lt;/h4&gt;
+&lt;p&gt;不同的基金公司此账户号各不相同。这个账户号是用于登记个人持有的该公司旗下的基金种类、数量及变化情况。是基金公司自己的登记系统。个人不论在什么渠道购买，只要属于该公司的基金，都会在该公司个人账户下有登记记录。&lt;/p&gt;
+&lt;h3 id="44-基金交易账户号"&gt;4.4. 基金交易账户号&lt;/h3&gt;
+&lt;p&gt;在各个不同渠道购买基金会有不同的交易账户号。如：在银行、券商、支付宝、微信理财通、天天基金等渠道代销和基金公司直销（官网、APP、微信公众号）会有各自不同的交易账户号。这个是用于登记记录在该销售平台的基金种类、数量及变化情况的。&lt;/p&gt;
+&lt;p&gt;这三类账户号之间的联系：不论是在什么平台销售的基金，需要基金交易帐户号登录操作；其对应的基金种类、数量及变化情况都会在该基金公司TA系统有登记记录；而中登TA账户号又与各基金公司账户号相互联系，是投资者场外基金的总帐户。&lt;/p&gt;
+&lt;h3 id="45-名词解释"&gt;4.5. 名词解释&lt;/h3&gt;
+&lt;p&gt;1、场内与场外&lt;/p&gt;</description></item><item><title>Awesome Quant</title><link>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/blog/2022/10/23/awesome-quant/</guid><description>&lt;h3 id="github-repo"&gt;Github repo&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://github.com/wangzhe3224/awesome-systematic-trading"&gt;Awesome systematic trading&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="博客"&gt;博客&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://wangzhe3224.github.io/"&gt;FunCoder&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="知乎"&gt;知乎&lt;/h3&gt;
+&lt;p&gt;用户：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.zhihu.com/people/wangzhetju"&gt;泛程序员&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zhihu.com/people/optmaster"&gt;optMaster&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.zhihu.com/question/418804367"&gt;量化交易框架vnpy vs backtrader，请大神点评各自优缺点，尤其在数字货币领域？&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;150 Most Frequently Asked Questions on Quant Interviews
+A Practical Guide to Quantitative Finance Interviews
+Quant Job Interview Questions And Answers&lt;/p&gt;
+&lt;p&gt;现代投资组合理论与投资分析 作者埃尔顿、格鲁伯、布朗和戈茨曼&lt;/p&gt;
+&lt;h3 id="证书"&gt;证书&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CQF 国际量化金融分析师&lt;/li&gt;
+&lt;li&gt;CPA 中国注册会计师 CICPA&lt;/li&gt;
+&lt;li&gt;CFA 特许金融分析师&lt;/li&gt;
+&lt;li&gt;ACCA 英国特许公认会计师公会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="书籍"&gt;书籍&lt;/h3&gt;
+&lt;p&gt;入门&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithmic Trading: Winning Strategies and Their Rationale&lt;/li&gt;
+&lt;li&gt;Quantitative Trading: How to Build Your Own Algorithmic Trading Business&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;进阶&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Systematic Trading: Aunique new method for designing trading and investing systems&lt;/li&gt;
+&lt;li&gt;Smart Portfolio: A practical guide to building and maintaining investment portfolios
+Python 实践&lt;/li&gt;
+&lt;li&gt;Python for Algorithmic Trading: From Idea to Cloud Deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一些概念性的知识&lt;/p&gt;</description></item><item><title>Search Results</title><link>https://javioustlj.github.io/finance-note/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/search/</guid><description/></item><item><title>关于投资集思录</title><link>https://javioustlj.github.io/finance-note/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javioustlj.github.io/finance-note/about/</guid><description>&lt;link rel="preload" as="image" href="https://javioustlj.github.io/finance-note/about/featured-background_hu_1b86cfe2f36110b7.jpg" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://javioustlj.github.io/finance-note/about/featured-background_hu_55b28426a9b7121a.jpg" media="(min-width: 1200px)"&gt;
+&lt;style&gt;
+#td-cover-block-0 {
+ background-image: url(/finance-note/about/featured-background_hu_1b86cfe2f36110b7.jpg);
+}
+@media only screen and (min-width: 1200px) {
+ #td-cover-block-0 {
+ background-image: url(/finance-note/about/featured-background_hu_55b28426a9b7121a.jpg);
+ }
+}
+&lt;/style&gt;
+&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto js-td-cover td-overlay td-overlay--dark -bg-dark" &gt;
+ &lt;div class="col-12"&gt;
+ &lt;div class="container td-overlay__inner"&gt;
+ &lt;div class="text-center"&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;关于投资集思录&lt;/h1&gt;
+ &lt;div class="pt-3 lead"&gt;
+&lt;p class="mt-5"&gt;投资集思录&lt;/p&gt;
+&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-1" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--1 position-relative td-box--height-auto"&gt;
+&lt;div class="col-12"&gt;
+&lt;div class="container text-center td-arrow-down"&gt;
+&lt;div class="h4 mb-0"&gt;
+&lt;p&gt;投资集思录 - 做一个有思考的投资者！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-2" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--2 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="container"&gt;
+&lt;h1 id="投资集思录" class="text-center"&gt;投资集思录&lt;/h1&gt;
+&lt;p&gt;投资集思录是我个人的投资思考的记录和总结。&lt;br&gt;
+一方面是可以将自己的思考记录下来；另一方面也希望对有缘的投资者有所帮助。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-3" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--3 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="container"&gt;
+&lt;h1 id="投资集思录-1" class="text-center"&gt;投资集思录&lt;/h1&gt;
+&lt;p&gt;错过了中国楼市的疯狂发展，希望不要再错过中国股市的发展了！&lt;br&gt;
+从2021年4月份开通了股票账户，同年7月份开通了期货账户，从此踏上了证券投资的路途。&lt;br&gt;
+我坚信“投资”是一条通往财富自由之路。在这里记录着投资路上的点点滴滴。&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</description></item></channel></rss>
