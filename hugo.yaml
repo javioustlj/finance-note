@@ -30,17 +30,6 @@ pygmentsUseClassic: false
 # See https://help.farbox.com/pygments.html
 pygmentsStyle: tango
 
-mediaTypes:
-  text/redirects:
-    delimiter: ''
-
-outputFormats:
-  redirects:
-    baseName: _redirects
-    isPlainText: true
-    mediaType: text/redirects
-    root: true
-
 # Configure how URLs look like per section.
 permalinks:
   blog: /:section/:year/:month/:day/:slugorcontentbasename
@@ -86,7 +75,7 @@ markup:
 
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
-  home: [HTML, print, RSS, redirects]
+  home: [HTML, print, RSS]
   section: [HTML, print, RSS]
 
 params:
